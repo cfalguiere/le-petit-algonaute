@@ -6,7 +6,7 @@ tags:
   - Mindstorms
 excerpt: Programmer un suivi de ligne avec le Mindstorms
 classes: wide
-assetsFolder: /assets/instructions/mindstorms/
+assetsFolder: {{site.url}}{{site.baseurl}}/assets/instructions/mindstorms/
 ---
 
 Avec la rentrée commence une nouvelle série, les missions.
