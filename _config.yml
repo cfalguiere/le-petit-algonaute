@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "shadow2" #"shadow" #"dark" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "fr-FR"
+title                    : "Le petit algonaute"
 title_separator          : "-"
 name                     : "Your Name"
-description              : "An amazing website."
+description              : "Découvrir l'informatique en s'amusant."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -288,5 +288,12 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: # true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+     
