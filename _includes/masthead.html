@@ -5,7 +5,11 @@
         <!-- custom
         <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
         -->
-        <a class="site-title" href="{{ '/' | relative_url }}"><img src="{{site.baseurl}}/assets/images/logo-white-tr-500-100.png"></a>
+        <a class="site-title" href="{{ '/' | relative_url }}">
+          <figure>
+            <img src="{{site.baseurl}}/assets/images/logo-white-tr-500-100.png">
+          </figure>
+        </a>
 
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
