@@ -27,7 +27,7 @@ On va donc commencer par le poster de la mission "Suivi de ligne" avec la techni
   <img src="{{page.assetsFolder}}two-steps-line-follower.png" alt="instructions du line follower">
   <figcaption>Instructions pour programmer le suivi de ligne.</figcaption>
 </figure>
-
+<!-- 1024 × 768 -->
 
 Les détails de la mission peuvent varier. Par exemple, le suivi de ligne a été utilisé dans le cadre d'un programme plus général de construction d'un rover pour explorer Mars. La ligne a suivre est une marque a sol détectée depuis l'espace.
 
