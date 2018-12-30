@@ -34,7 +34,7 @@ Ce site sert de support pour le Coder Dojo Paris
 
 | Nom                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| [Blog](/about/) | Les articles postés sur divers sujets. |
+| [Blog](/) | Les articles postés sur divers sujets. |
 
 ---
 
@@ -44,7 +44,7 @@ Ce site est réalisé en utilisant Jekyll et le thème Minimal Mistakes.
 
 
 - [Jekyll](https://jekyllrb.com/)
-- [Minimal Mistakes](https://mmistakes.github.io/minimal-mistake) (https://thenounproject.com/tracytam)
+- [Minimal Mistakes](https://mmistakes.github.io/minimal-mistake)
 
 
 ---
