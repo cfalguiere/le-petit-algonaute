@@ -15,7 +15,7 @@ En atelier, il est souvent nécessaire d'utiliser une technique particulière, c
 
 Ces aides sont fournies sous la forme de missions. Chaque mission est un poster d'une page facile à imprimer.
 
-Le poster présente
+Le poster présente :
 - le but de la mission,
 - le principe utilisé,
 - les bases du montage à réaliser
