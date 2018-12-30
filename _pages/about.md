@@ -17,10 +17,11 @@ last_modified_at: 2018-12-30T16:40:00+02:00s
 toc: true
 ---
 
-Le petit algonaute est un blog dédié à la découverte de l'informatique et la robotique. Il est destiné plus particulièrement uax enfants et aux enseignants et éducateurs menant des ateliers.
+Le petit algonaute est un blog dédié à la découverte de l'informatique et la robotique. Il est destiné plus particulièrement aux enfants et aux enseignants et éducateurs menant des ateliers.
 
 {% include gallery id="layouts_gallery" caption="Examples de contenus." %}
 
+Ce site sert de support pour le Coder Dojo Paris
 
 ## Qu'est ce qu'on y trouve ?
 
@@ -37,13 +38,13 @@ Le petit algonaute est un blog dédié à la découverte de l'informatique et la
 
 ---
 
-## Credits
+## Crédits
 
 Ce site est réalisé en utilisant Jekyll et le thème Minimal Mistakes.
 
 
 - [Jekyll](https://jekyllrb.com/)
-- [Minimal Mistakes](https://mmistakes.github.io/minimal-mistake) ](https://thenounproject.com/tracytam)
+- [Minimal Mistakes](https://mmistakes.github.io/minimal-mistake) (https://thenounproject.com/tracytam)
 
 
 ---
