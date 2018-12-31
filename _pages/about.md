@@ -10,9 +10,9 @@ layouts_gallery:
   - url: /assets/images/mm-layout-single-meta.png
     image_path: /assets/images/mm-layout-single-meta.png
     alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
+  - url: /assets/images/about-home.png
+    image_path: /assets/images/about-home.png
+    alt: "example home"
 last_modified_at: 2018-12-30T16:40:00+02:00s
 toc: true
 ---
