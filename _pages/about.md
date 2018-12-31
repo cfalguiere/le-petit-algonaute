@@ -17,7 +17,7 @@ last_modified_at: 2018-12-30T16:40:00+02:00s
 toc: true
 ---
 
-Le petit algonaute est un blog dédié à la découverte de l'informatique et la robotique. Il est destiné plus particulièrement aux enfants et aux enseignants et éducateurs menant des ateliers.
+Le petit algonaute est un blog dédié à la découverte de l'informatique et la robotique. Il est destiné plus particulièrement aux enfants, aux enseignants et éducateurs menant des ateliers.
 
 {% include gallery id="layouts_gallery" caption="Examples de contenus." %}
 
