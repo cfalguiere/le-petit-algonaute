@@ -1,0 +1,16 @@
+# Authors
+
+cfalguiere:
+  name        : "Claude Falguière"
+  uri         : "https://github.com/cfalguiere"
+  bio         : "Code Dojo Mentor."
+  avatar      : "/assets/images/authors/cfalguiere.jpg"
+  twitter     : "cfalguiere"
+
+Cornelius Fiddlebone:
+  name        : "Cornelius Fiddlebone"
+  email       : "cornelius@thewhip.com"
+  bio         : "I ordered what?"
+  avatar      : "/assets/images/bio-photo.jpg"
+  twitter     : "rhymeswithsackit"
+  google_plus : "CorneliusFiddlebone"
