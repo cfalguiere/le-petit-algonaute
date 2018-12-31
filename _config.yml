@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "shadow2" #"shadow" #"dark" # "default" # "air", "aqu
 locale                   : "fr-FR"
 title                    : "Le petit algonaute"
 title_separator          : "-"
-name                     : "Claude Falguière"
+name                     : "Le petit algonaute"
 description              : "Découvrir l'informatique en s'amusant."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : /le-petit-algonaute-tests-mm/ # the subpath of your site, e.g. "/blog"
