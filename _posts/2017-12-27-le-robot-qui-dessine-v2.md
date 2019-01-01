@@ -8,10 +8,19 @@ tags:
 excerpt: Un robot Mindstorms qui permet de dessiner
 toc: true
 toc_label: "sections"
-toc_icon: "tasks"
+toc_icon: "list"
 toc_sticky: true
 assetsFolder: /assets/images/posts/2017-12-27/
 ---
+
+## Description
+
+Ce robot peut porter un stylo et il est possibke de faire des dessins en déplaçant le robot.
+
+<span class="fas fa-fw fa-robot" aria-hidden="true"></span> Type : Robotique
+<span class="fas fa-fw fa-shapes" aria-hidden="true"></span> Niveau : Facile
+<span class="fas fa-fw fa-clock" aria-hidden="true"></span> Temps de montage : 30 mn
+
 
 ## Les principes de fonctionnement
 
