@@ -51,8 +51,8 @@ Après plusieurs essais ratés nous avons constaté que le robot ne doit pas avo
 Le rover va être construit en quatre parties :
 - [le moteur du porte-stylo]({{site.baseurl}}blog/le-robot-qui-dessine-v2/#le-moteur-du-porte-stylo),
 - [le porte-stylo]({{site.baseurl}}blog/le-robot-qui-dessine-v2/#le-porte-stylo),
+- [le chassis]({{site.baseurl}}blog/le-robot-qui-dessine-v2/#le-chassis),
 - TODO
-- [le chassis]({{site.prefix}}/blog/2017/12/29/le-robot-qui-dessine-v2-4),
 - [la brique de contrôle]({{site.prefix}}/blog/2017/12/29/le-robot-qui-dessine-v2-5).
 
 ![Rover Eclaté]({{site.baseurl}}{{page.assetsFolder}}/0-ensemble/dessinateurv2-avec-porte-stylo-exploded.png)
@@ -122,4 +122,36 @@ Assemblez les trois éléments
 Fixez le porte-stylo sur la barre verticale déjà en place côté moteur
 
 ![With motor]({{site.baseurl}}{{page.assetsFolder}}/4-porte-stylo/4-with-motor.png)
+
+## Le chassis
+
+L'objectif dans cette étape est d'assembler le chassis.
+
+![Montage terminé]({{site.baseurl}}{{page.assetsFolder}}/2-roues/2-completed-small.png)
+
+Les pièces nécessaires
+
+![BOM]({{site.baseurl}}{{page.assetsFolder}}/2-roues/BOM-chassis.png)
+
+Il faut assembler les gros moteurs, les roues, des barres derrières et dessous pour assurer la rigidité et la roue folle.
+
+Montez les roues sur les moteurs pour les deux côtés.
+
+![1]({{site.baseurl}}{{page.assetsFolder}}/2-roues/2-1-steps.png)
+
+Assemblez la barre de dessous
+
+![3]({{site.baseurl}}{{page.assetsFolder}}/2-roues/2-3-steps-small.png)
+
+Assemblez la barre arrière
+
+![4]({{site.baseurl}}{{page.assetsFolder}}/2-roues/2-4-steps-small.png)
+
+Assemblez la roue folle
+
+![5]({{site.baseurl}}{{page.assetsFolder}}/2-roues/2-5-steps.png)
+
+Vous pouvez maintenant assembler le tout
+
+![Vision explosée]({{site.baseurl}}{{page.assetsFolder}}/2-roues/2-all-steps.png)
 
