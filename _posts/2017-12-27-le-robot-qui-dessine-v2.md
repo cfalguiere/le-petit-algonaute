@@ -250,7 +250,7 @@ Avant de lancer, il faut positionner la pointe du stylo au niveau de la feuille
 
 ![cercle]({{site.baseurl}}{{page.assetsFolder}}/5-programme/cercle-small.png)
 
-> Si on ne fait tourner qu'une roue, le robot va tourner autour de l'autre roue. Ici, on fait avancer la roue commandée par B, la roue gauche. La roue droite reste immobile et le robot va pivoter sur cette roue. Si on fait ça suffisamment longtemps, le robot trace un cercle.
+> Si on ne fait tourner qu'une roue, le robot va tourner autour de l'autre roue. Ici, on fait avancer la roue commandée par le moteur B, la roue gauche. La roue droite reste immobile et le robot va pivoter sur cette roue. Si on fait ça suffisamment longtemps, le robot trace un cercle.
 
 Aller plus loin :
 - comment peut on calculer le rayon de ce cerclsmae ?
