@@ -252,12 +252,12 @@ Avant de lancer, il faut positionner la pointe du stylo au niveau de la feuille
 
 > Si on ne fait tourner qu'une roue, le robot va tourner autour de l'autre roue. Ici, on fait avancer la roue commandée par le moteur B, la roue gauche. La roue droite reste immobile et le robot va pivoter sur cette roue. Si on fait ça suffisamment longtemps, le robot trace un cercle.
 
-Aller plus loin :
+Quelques idées pour aller plus loin :
 - comment peut on calculer le rayon de ce cerclsmae ?
 - comment calculer le nombre de tours de roues nécessaires pour faire le cercle complet
 - comment peut on faire un cercle plus large ?
 
-indices:
+Indices:
 - le diamètre des roues est 4,32 cm
 - vous pouvez utiliser les deux roues
 
@@ -277,9 +277,7 @@ Attention, ce programme démarre (et fini) stylo levé. Si nécessaire, utilisez
 Vous aurez peut être à changer le nombre de degrés de rotation du bloc qui pivote. Selon le type de sol le frottement est plus ou moins important et le robot tournera plus ou moins facilement. Il l'angle du virage du robot peut être différent de 90°. Il est possible de vérifier l'angle du rotation avec un capteur, mais pour l'instant on va rester sur un programme simple.
 
 
-### D'autres formes
-
-Quelques questions pour aller plus loin :
+Quelques idées pour aller plus loin :
 - comment peut on faire un carré plus grand ?
 - comment peut on faire un triangle ?
 
