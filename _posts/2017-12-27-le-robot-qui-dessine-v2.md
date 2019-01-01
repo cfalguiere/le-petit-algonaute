@@ -1,7 +1,7 @@
 ---
 title: "Le robot qui dessine"
 categories:
-  - Blog
+  - Montage
 tags:
   - Mindstorms
   - CoderDojo
@@ -21,11 +21,11 @@ Ce montage permet de poser et lever de stylo à la verticule. Le stylo a été a
 
 Ce robot peut porter un stylo et il est possible de faire des dessins en déplaçant le robot.
 
-<span class="fas fa-fw fa-robot" aria-hidden="true"></span>p Robotique
+<span class="fas fa-fw fa-robot" aria-hidden="true"></span>&nbsp Robotique
 <br>
-<span class="fas fa-fw fa-shapes" aria-hidden="true"></span> Facile
+<span class="fas fa-fw fa-shapes" aria-hidden="true"></span>&nbsp Facile
 <br>
-<span class="fas fa-fw fa-clock" aria-hidden="true"></span> 30 mn
+<span class="fas fa-fw fa-clock" aria-hidden="true"></span>&nbsp 30 mn
 
 
 Le robot qui dessine est construit sur une base de rover.
@@ -231,7 +231,7 @@ On peut tout d'abord tester le fonctionnement du stylo avec le programme suivant
 
 Avant de lancer, il faut positionner la pointe du stylo au niveau de la feuille
 
-![stylo]({{site.baseurl}}{{page.assetsFolderProgramme}}/5-programme/stylo.png)
+![stylo]({{site.baseurl}}{{page.assetsFolder}}/5-programme/stylo.png)
 
 > Lorsque le moteur tourne en marche arrière (-30) il soulève le stylo.
 > Lorsque le moteur tourne en marche avant (30) il abaisse le stylo.
@@ -246,7 +246,7 @@ La figure la plus simple à tracer est le cercle.
 
 Avant de lancer, il faut positionner la pointe du stylo au niveau de la feuille
 
-![cercle]({{site.baseurl}}{{page.assetsFolderProgramme}}/5-programme/cercle-small.png)
+![cercle]({{site.baseurl}}{{page.assetsFolder}}/5-programme/cercle-small.png)
 
 > Si on ne fait tourner qu'une roue, le robot va tourner autour de l'autre roue. Ici, on fait avancer la roue commandée par B, la roue gauche. La roue droite reste immobile et le robot va pivoter sur cette roue. Si on fait ça suffisamment longtemps, le robot trace un cercle.
 
@@ -264,7 +264,7 @@ indices:
 Tracer un carré nécessaire de faire 4 lignes droites et pivoter pour tourner à chaque coin. On va lever le stylo dans chaque coin pour éviter les gribouillages.
 Attention, ce programme démarre (et fini) stylo levé. Si nécessaire, utilisez une partie du programme "stylo" pour  placer le stylo à la bonne hauteur.
 
-![carré]({{site.baseurl}}{{page.assetsFolderProgramme}}/5-programme/carre.png)
+![carré]({{site.baseurl}}{{page.assetsFolder}}/5-programme/carre.png)
 
 > Pour faire pivoter le robot sur place, on va faire tourner une roue en marche avant pendant que l'autre tourne en marche arrière. De cette manière, le robot va pivoter autour d'un point qui est entre les deux roues au niveau du stylo.
 
