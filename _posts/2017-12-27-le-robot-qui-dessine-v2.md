@@ -17,11 +17,11 @@ assetsFolder: /assets/images/posts/2017-12-27/
 
 Ce robot peut porter un stylo et il est possibke de faire des dessins en déplaçant le robot.
 
-Type : <span class="fas fa-fw fa-robot" aria-hidden="true"></span> Robotique
+Type | <span class="fas fa-fw fa-robot" aria-hidden="true"></span> | Robotique
 <br>
-Niveau : <span class="fas fa-fw fa-shapes" aria-hidden="true"></span> Facile
+Niveau | <span class="fas fa-fw fa-shapes" aria-hidden="true"></span> | Facile
 <br>
-Durée : <span class="fas fa-fw fa-clock" aria-hidden="true"></span> 30 mn
+Durée | <span class="fas fa-fw fa-clock" aria-hidden="true"></span> | 30 mn
 
 
 ## Les principes de fonctionnement
