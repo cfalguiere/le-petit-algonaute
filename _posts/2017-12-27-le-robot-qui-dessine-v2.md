@@ -1,7 +1,7 @@
 ---
 title: "Le robot qui dessine"
 categories:
-  - Montage
+  - Blog
 tags:
   - Mindstorms
   - CoderDojo
