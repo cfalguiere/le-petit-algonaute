@@ -1,11 +1,11 @@
 ---
 title: "Le robot qui dessine"
 categories:
-  - Blog
+  - Montage
 tags:
   - Mindstorms
   - CoderDojo
-excerpt: Un robot Mindstorms qui permet de dessiner
+excerpt: Montage d'un robot Mindstorms qui permet de dessiner
 toc: true
 toc_label: "sections"
 toc_icon: "list"
@@ -13,18 +13,20 @@ toc_sticky: true
 assetsFolder: /assets/images/posts/2017-12-27/
 ---
 
-## Description
+Dans la session du 18 Mars, Hema avait voulu faire un robot qui dessine. On avait bricolé un truc mais ce montage avait beaucoup de contraintes. En partilier, le lever de stylo par le côté traçait des bouts de ligne à chaque fois.
 
-Ce robot peut porter un stylo et il est possibke de faire des dessins en déplaçant le robot.
+Ce montage permet de poser et lever de stylo à la verticule. Le stylo a été aussi positionné entre les deux roues pour que le stylo puisse faire un coin à angle droit (plus ou moins).
 
-<span class="fas fa-fw fa-robot" aria-hidden="true"></span>  Robotique
+## Description du montage
+
+Ce robot peut porter un stylo et il est possible de faire des dessins en déplaçant le robot.
+
+<span class="fas fa-fw fa-robot" aria-hidden="true"></span>&nbsp Robotique
 <br>
-<span class="fas fa-fw fa-shapes" aria-hidden="true"></span>  Facile
+<span class="fas fa-fw fa-shapes" aria-hidden="true"></span>&nbsp Facile
 <br>
-<span class="fas fa-fw fa-clock" aria-hidden="true"></span>  30 mn
+<span class="fas fa-fw fa-clock" aria-hidden="true"></span>&nbsp 30 mn
 
-
-## Les principes de fonctionnement
 
 Le robot qui dessine est construit sur une base de rover.
 
