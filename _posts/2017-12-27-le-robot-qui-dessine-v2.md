@@ -58,4 +58,39 @@ Le rover va être construit en quatre parties :
 
 La liste complète des pièces nécessaires peut être téléchargée [ici]({{site.baseurl}}{{page.assetsFolder}}/BOM-dessinateurv2-avec-porte-stylo.xlsx). Toutes les pièces proviennent du kit EV3 Home sauf la roue folle. Cet élément peut être remplacé par un montage utilisant une petite roue ou acheté en complément pour une dizaine d'euros.
 
+## Le moteur du porte-stylo
+
+L'objectif dans cette étape est de monter le moteur qui actionne le porte-stylo.
+
+![Montage terminé]({{site.baseurl}}{{page.assetsFolder}}/1-petit-moteur/1-completed-small.png)
+
+Il faut assembler un petit moteur, plusieurs engrenages pour changer l'axe de rotation et des pièces pour assembler le tout.
+
+![Vision explosée]({{site.baseurl}}{{page.assetsFolder}}/1-petit-moteur/1-exploded-small.png)
+
+Les pièces nécessaires
+
+![BOM]({{site.baseurl}}{{page.assetsFolder}}/1-petit-moteur/BOM-moteur.png)
+
+Monter le cadre et les deux engrenages.
+
+![1]({{site.baseurl}}{{page.assetsFolder}}/1-petit-moteur/1-1-steps-small.png)
+
+Ajouter les supports sur le cadre.
+
+![3]({{site.baseurl}}{{page.assetsFolder}}/1-petit-moteur/1-3-steps-small.png)
+
+Ajouter la barre verticale des bras du porte-stylo. La partie basse tourne avec l'axe. En haut, la pièce de connexion grise est sans friction. La même en noir ne permetra pas au bras de bouger.
+
+![5]({{site.baseurl}}{{page.assetsFolder}}/1-petit-moteur/1-5-steps-small.png)
+
+Placer les supports sur le moteur
+
+![2]({{site.baseurl}}{{page.assetsFolder}}/1-petit-moteur/1-2-steps-small.png)
+
+![7]({{site.baseurl}}{{page.assetsFolder}}/1-petit-moteur/1-7-steps.png)
+
+Connecter le petit moteur aux engrenages
+
+![9]({{site.baseurl}}{{page.assetsFolder}}/1-petit-moteur/1-9-steps-small.png)
 
