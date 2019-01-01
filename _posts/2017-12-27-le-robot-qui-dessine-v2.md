@@ -49,7 +49,8 @@ Après plusieurs essais ratés nous avons constaté que le robot ne doit pas avo
 ### Le plan de montage
 
 Le rover va être construit en quatre parties :
-- [le moteur du porte-stylo]({{site.prefix}}/blog/2017/12/28/le-robot-qui-dessine-v2-2),
+- [le moteur du porte-stylo]({{site.baseurl}}blog/le-robot-qui-dessine-v2/#le-moteur-du-porte-stylo),
+- TODO
 - [le porte-stylo]({{site.prefix}}/blog/2017/12/28/le-robot-qui-dessine-v2-3),
 - [le chassis]({{site.prefix}}/blog/2017/12/29/le-robot-qui-dessine-v2-4),
 - [la brique de contrôle]({{site.prefix}}/blog/2017/12/29/le-robot-qui-dessine-v2-5).
@@ -93,4 +94,32 @@ Placer les supports sur le moteur
 Connecter le petit moteur aux engrenages
 
 ![9]({{site.baseurl}}{{page.assetsFolder}}/1-petit-moteur/1-9-steps-small.png)
+
+## Le porte-stylo
+
+L'objectif dans cette étape est d'assembler le porte stylo et le fixer au moteur de l'étape précédente.
+
+![Montage terminé]({{site.baseurl}}{{page.assetsFolder}}/4-porte-stylo/4-completed-small.png)
+
+Les pièces nécessaires
+
+![BOM]({{site.baseurl}}{{page.assetsFolder}}/4-porte-stylo/BOM-stylo.png)
+
+Il faut assembler les deux bras qui seront raccordés au moteur et le support du stylo.
+
+Montez les deux bras. Il faut absolument utiliser les connecteurs gris sans friction pour que les bras puissent poser/lever le stylo.
+
+![1]({{site.baseurl}}{{page.assetsFolder}}/4-porte-stylo/4-1-steps-small.png)
+
+Assemblez le support du stylo
+
+![2]({{site.baseurl}}{{page.assetsFolder}}/4-porte-stylo/4-2-steps-small.png)
+
+Assemblez les trois éléments
+
+![all]({{site.baseurl}}{{page.assetsFolder}}/4-porte-stylo/4-all-steps.png)
+
+Fixez le porte-stylo sur la barre verticale déjà en place côté moteur
+
+![With motor]({{site.baseurl}}{{page.assetsFolder}}/4-porte-stylo/4-with-motor.png)
 
