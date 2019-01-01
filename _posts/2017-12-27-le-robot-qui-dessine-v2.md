@@ -52,8 +52,7 @@ Le rover va être construit en quatre parties :
 - [le moteur du porte-stylo]({{site.baseurl}}blog/le-robot-qui-dessine-v2/#le-moteur-du-porte-stylo),
 - [le porte-stylo]({{site.baseurl}}blog/le-robot-qui-dessine-v2/#le-porte-stylo),
 - [le chassis]({{site.baseurl}}blog/le-robot-qui-dessine-v2/#le-chassis),
-- TODO
-- [la brique de contrôle]({{site.baseurl}}blog/le-robot-qui-dessine-v2/#la-brique-de-controle).
+- [la brique de contrôle]({{site.baseurl}}blog/le-robot-qui-dessine-v2/#la-brique-de-contr%C3%B4le).
 
 ![Rover Eclaté]({{site.baseurl}}{{page.assetsFolder}}/0-ensemble/dessinateurv2-avec-porte-stylo-exploded.png)
 
