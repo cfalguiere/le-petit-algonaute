@@ -46,11 +46,11 @@ Dans la conception il est important que le stylo se trouve entre les roues avant
 
 Comme le moteur tourne sur un plan horizontal et que l'on veut convertir ce mouvement en déplacement vertical linéaire on va utiliser deux mécanismes.
 
-1) Les deux engrenages font tourner un axe qui est perpendiculaire au moteur. L'engrenage jaune est entraîné par le moteur, il fait tourner l'engrenage noir qui fait tourner l'axe auquel le bras est relié.
+1) Les deux engrenages font tourner un axe qui est perpendiculaire au moteur. L'engrenage jaune est entraîné par le moteur. Il fait tourner l'engrenage noir qui fait tourner l'axe auquel le bras porte-stylo est relié.
 
 ![Linear actuator 1]({{site.baseurl}}{{page.assetsFolder}}/0-ensemble/linear-actuator-1.png)
 
-2) Le bras à l'avant convertit la rotation de l'axe en mouvement de haut en bas. Lorsque l'axe tourne les barres du bas tournent avec l'axe. Le reste des barres suit le mouvement car les connecteurs gris sont sans friction.
+2) Le bras porte-stylo à l'avant se déplace de haut en bas. Il convertit la rotation de l'axe entraîné par le moteur en mouvement de haut en bas. Lorsque l'axe tourne les barres du bas tournent avec l'axe. Le reste, les barres du haut et les montants verticaux suit le mouvement grace aux connecteurs sans friction (les connecteurs gris).
 
 ![Linear actuator 2]({{site.baseurl}}{{page.assetsFolder}}/0-ensemble/linear-actuator-2-small.png)
 
