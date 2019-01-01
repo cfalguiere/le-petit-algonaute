@@ -15,7 +15,7 @@ assetsFolder: /assets/images/posts/2017-12-27/
 
 Dans la session du 18 Mars, Hema avait voulu faire un robot qui dessine. On avait bricolé un truc mais ce montage avait beaucoup de contraintes. En partilier, le lever de stylo par le côté traçait des bouts de ligne à chaque fois.
 
-Ce montage permet de poser et lever de stylo à la verticule. Le stylo a été aussi positionné entre les deux roues pour que le stylo puisse faire un coin à angle droit (plus ou moins).
+Ce montage permet de poser et lever de stylo à la verticale. Le stylo a été aussi positionné entre les deux roues pour que le stylo puisse faire un coin à angle droit (plus ou moins).
 
 ## Description du montage
 
