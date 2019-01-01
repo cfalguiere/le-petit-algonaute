@@ -21,11 +21,11 @@ Ce montage permet de poser et lever de stylo à la verticule. Le stylo a été a
 
 Ce robot peut porter un stylo et il est possible de faire des dessins en déplaçant le robot.
 
-<span class="fas fa-fw fa-robot" aria-hidden="true"></span>&nbsp Robotique
+<span class="fas fa-fw fa-robot" aria-hidden="true"></span>&nbsp; Robotique
 <br>
-<span class="fas fa-fw fa-shapes" aria-hidden="true"></span>&nbsp Facile
+<span class="fas fa-fw fa-shapes" aria-hidden="true"></span>&nbsp; Facile
 <br>
-<span class="fas fa-fw fa-clock" aria-hidden="true"></span>&nbsp 30 mn
+<span class="fas fa-fw fa-clock" aria-hidden="true"></span>&nbsp; 30 mn
 
 
 Le robot qui dessine est construit sur une base de rover.
