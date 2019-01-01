@@ -53,7 +53,7 @@ Le rover va être construit en quatre parties :
 - [le porte-stylo]({{site.baseurl}}blog/le-robot-qui-dessine-v2/#le-porte-stylo),
 - [le chassis]({{site.baseurl}}blog/le-robot-qui-dessine-v2/#le-chassis),
 - TODO
-- [la brique de contrôle]({{site.prefix}}/blog/2017/12/29/le-robot-qui-dessine-v2-5).
+- [la brique de contrôle]({{site.baseurl}}blog/le-robot-qui-dessine-v2/#la-brique-de-controle).
 
 ![Rover Eclaté]({{site.baseurl}}{{page.assetsFolder}}/0-ensemble/dessinateurv2-avec-porte-stylo-exploded.png)
 
@@ -154,4 +154,30 @@ Assemblez la roue folle
 Vous pouvez maintenant assembler le tout
 
 ![Vision explosée]({{site.baseurl}}{{page.assetsFolder}}/2-roues/2-all-steps.png)
+
+## La brique de contrôle
+
+L'objectif dans cette étape est d'assembler la dernière partie, la brique de contrôle.
+
+![Montage terminé]({{site.baseurl}}{{page.assetsFolder}}/3-brique/3-completed-small.png)
+
+Les pièces nécessaires
+
+![BOM]({{site.baseurl}}{{page.assetsFolder}}/3-brique/BOM-brique.png)
+
+Il faut assembler la brique de contrôle et les éléments qui permettront de la fixer au chassis.
+
+Montez les supports arrière
+
+![1]({{site.baseurl}}{{page.assetsFolder}}/3-brique/3-1-steps-small.png)
+
+Assemblez les supports avant
+
+![3]({{site.baseurl}}{{page.assetsFolder}}/3-brique/3-3-steps-small.png)
+
+![4]({{site.baseurl}}{{page.assetsFolder}}/3-brique/3-4-steps-small.png)
+
+Vous pouvez maintenant assembler  les éléments du support de la brique
+
+![Vision explosée]({{site.baseurl}}{{page.assetsFolder}}/3-brique/3-all-steps.png)
 
