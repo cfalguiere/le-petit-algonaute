@@ -34,7 +34,9 @@ Ce site sert de support pour le Coder Dojo Paris
 
 | Nom                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| [Blog](/) | Les articles postés sur divers sujets. |
+| [Blog](/) | Les articles postés du plus récent au plus ancien |
+| [Posts par tag](/tags/) | Les articles postés par sujet |
+| [Posts par catégorie](/categories/) | Les articles postés par type |
 
 ---
 
