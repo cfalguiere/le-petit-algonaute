@@ -25,7 +25,7 @@ Ce robot peut porter un stylo et il est possible de faire des dessins en d√©pla√
 <br>
 <span class="fas fa-fw fa-shapes" aria-hidden="true"></span>&nbsp; Facile
 <br>
-<span class="fas fa-fw fa-clock" aria-hidden="true"></span>&nbsp; 30 mn
+<span class="fas fa-fw fa-clock" aria-hidden="true"></span>&nbsp; 1h
 
 
 Le robot qui dessine est construit sur une base de rover.
