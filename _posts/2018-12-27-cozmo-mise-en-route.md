@@ -1,5 +1,5 @@
 ---
-title: "Mise en route du cozmo"
+title: "Mise en route du Cozmo"
 categories:
   - Aide-Mémoire
 tags:
@@ -11,7 +11,7 @@ assetsFolder: /assets/instructions/cozmo/
 
 Le robot Cozmo s'utilise depuis une tablette ou un smartphone.
 
-Cet aide-mémoire vous aidera à connecter le robo Cozmo à votre appareil.
+Cet aide-mémoire vous aidera à connecter le robot Cozmo à votre appareil.
 
 <figure>
   <img src="{{site.baseurl}}{{page.assetsFolder}}cozmo-mise-en-route.png" alt="instructions de mise en route">
@@ -19,5 +19,5 @@ Cet aide-mémoire vous aidera à connecter le robo Cozmo à votre appareil.
 </figure>
 <!-- A4 -->
 
-<a href="{{site.baseurl}}{{page.assetsFolder}}/cozmo-mise-en-route.png" target="_blank" class=".btn .btn--success .btn--large">Télécharger les instructions</a>
+<a href="{{site.baseurl}}{{page.assetsFolder}}/cozmo-mise-en-route.png" target="_blank" class=".btn .btn--success .btn--large">Télécharger l'aide mémoire</a>
 
