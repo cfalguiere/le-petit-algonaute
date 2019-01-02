@@ -5,13 +5,13 @@ categories:
 tags:
   - Cozmo
 excerpt: Aide mémoire de Sandbox pour programmer Cozmo
+classes: wide
 assetsFolder: /assets/instructions/cozmo/
 ---
 
-L'application Sandbox permet de programmer Cozmo depuis une tablette ou un smartphone. La programmation est basée du des blocs très simples.
+L'application Sandbox permet de programmer Cozmo depuis une tablette ou un smartphone. La programmation est basée sur des blocs très simples.
 
-Si vous n'avez pas encore connecté Cozmo à votre appareil, vous trouverez  ici <a href="{{site.baseurl}}{{page.assetsFolder}}/cozmo-mise-en-route.png" target="_blank" >les instructions pour cette étape</a>
-
+Si vous n'avez pas encore connecté Cozmo à votre appareil, vous trouverez  ici <a href="{{site.baseurl}}/aide-m%C3%A9moire/cozmo-mise-en-route/" target="_blank" >les instructions pour cette étape</a>
 
 Cet aide-mémoire vous aidera à lancer l'application et démarrer la réalisation d'un programme.
 
