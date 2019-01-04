@@ -11,7 +11,7 @@ tags:
   - Robotique
 excerpt: Programmer un suivi de ligne avec le Mindstorms
 classes: wide
-assetsFolder: /assets/instructions/mindstorms/
+assets_folder: /assets/instructions/mindstorms/
 ---
 
 Avec la rentrée commence une nouvelle série, les missions.
@@ -29,7 +29,7 @@ Le poster présente :
 On va donc commencer par le poster de la mission "Suivi de ligne" avec la technique la plus simple à programmer, le two-steps-line-follower.
 
 <figure>
-  <img src="{{site.baseurl}}{{page.assetsFolder}}two-steps-line-follower.png" alt="instructions du line follower">
+  <img src="{{site.baseurl}}{{page.assets_folder}}two-steps-line-follower.png" alt="instructions du line follower">
   <figcaption>Instructions pour programmer le suivi de ligne.</figcaption>
 </figure>
 <!-- 1024 × 768 -->
@@ -39,5 +39,5 @@ Les détails de la mission peuvent varier. Par exemple, le suivi de ligne a ét�
 Une autre idée de mise en oeuvre est la réalisation d'un véhicule qui suit la route en se basant sur les marquages au sol.
 
 
-<a href="{{site.baseurl}}{{page.assetsFolder}}/two-steps-line-follower.pdf" target="_blank" class=".btn .btn--success .btn--large">Télécharger les instructions</a>
+<a href="{{site.baseurl}}{{page.assets_folder}}/two-steps-line-follower.pdf" target="_blank" class=".btn .btn--success .btn--large">Télécharger les instructions</a>
 
