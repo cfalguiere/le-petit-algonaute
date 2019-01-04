@@ -11,3 +11,13 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
+sb-cozmo:
+  - title: Getting Started
+    avatar    : "/assets/images/authors/cozmo.png"
+    text         : >
+      Cozmo est un petit robot très joueur.
+      Il peut être programmé via son logiciel sur tablette ou smartphone.
+    children:
+      - title: "En savoir plus"
+        icon: "fas fa-fw fa-paper-plane"
+        url: /author-cozmo/

@@ -16,7 +16,7 @@ cozmo:
   links:
     - label: "En savoir plus"
       icon: "fas fa-fw fa-paper-plane"
-      url: "/{{site.baseurl}}/author-cozmo/"
+      url: "/author-cozmo/"
 
 Cornelius Fiddlebone:
   name        : "Cornelius Fiddlebone"
