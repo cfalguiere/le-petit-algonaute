@@ -12,9 +12,17 @@ main:
   #   url: /sitemap/
 
 sb-cozmo:
-  - title   : <span class-"fas fa-fw fa-paper-plane"> </span>En savoir plus
+  - title   : En savoir plus
     children:
       - title: <i class="fas fa-fw fa-paper-plane" aria-hidden="true"></i> Présentation
         url  : /author-cozmo/
       - title: <i class="fas fa-fw fa-paper-plane" aria-hidden="true"></i> Articles sur Cozmo
         url  : /tags/#cozmo
+
+sb-mindstorms:
+  - title   : En savoir plus
+    children:
+      - title: <i class="fas fa-fw fa-paper-plane" aria-hidden="true"></i> Présentation
+        url  : /author-mindstorms/
+      - title: <i class="fas fa-fw fa-paper-plane" aria-hidden="true"></i> Articles sur Cozmo
+        url  : /tags/#mindstorms

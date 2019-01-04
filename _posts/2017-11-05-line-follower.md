@@ -1,5 +1,8 @@
 ---
 title: "Mission Suivi de ligne"
+author: mindstorms
+sidebar:
+  nav: sb-mindstorms
 categories:
   - Blog
 tags:

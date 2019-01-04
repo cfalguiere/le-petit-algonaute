@@ -1,5 +1,8 @@
 ---
 title: "Le robot qui dessine"
+author: mindstorms
+sidebar:
+  nav: sb-mindstorms
 categories:
   - Montage
 tags:

@@ -14,6 +14,12 @@ cozmo:
     Il peut être programmé via son logiciel sur tablette ou smartphone.
   avatar      : "/assets/images/authors/cozmo.png"
 
+cozmo:
+  name        : "Mindstorms"
+  bio         : >
+    Mindstorms est un kit de robotique basé sur des briques Lego Technic.
+    Il peut être programmé via un logiciel graphique iu des langages de programmation.
+
 Cornelius Fiddlebone:
   name        : "Cornelius Fiddlebone"
   email       : "cornelius@thewhip.com"
