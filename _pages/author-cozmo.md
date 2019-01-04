@@ -6,4 +6,4 @@ excerpt: >
     Il peut être programmé via son logiciel sur tablette ou smartphone.
 ---
 
-<a href="/{{site.baseurl}}/tags/#cozmo">Articles sur Cozmo</a>
+<a href="{{site.baseurl}}/tags/#cozmo">Articles sur Cozmo</a>
