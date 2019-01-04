@@ -25,7 +25,7 @@ Le petit algonaute est un blog dédié à la découverte de l'informatique et la
 
 Ce site sert de support pour le Coder Dojo Paris
 
-## Qu'est ce qu'on y trouve ?
+## Qu'est ce que je peux y trouver ?
 
 - Des informations sur les outils éducatifs liés à l'informatique, la robotique et l'électronique.
 - Des fiches de mise en route pour ces outils.
@@ -36,9 +36,9 @@ Ce site sert de support pour le Coder Dojo Paris
 
 | Nom                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| [Blog](/) | Les articles postés du plus récent au plus ancien |
-| [Posts par tag](/tags/) | Les articles postés par sujet |
-| [Posts par catégorie](/categories/) | Les articles postés par type |
+| [Blog](/blog/) | Les articles postés du plus récent au plus ancien |
+| [Tags](/tags/) | Les articles postés par sujet |
+| [Catégories](/categories/) | Les articles postés par type |
 
 ---
 
