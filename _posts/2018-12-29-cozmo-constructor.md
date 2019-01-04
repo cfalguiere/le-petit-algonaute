@@ -1,6 +1,8 @@
 ---
 title: "Programmer Cozmo avec l'application Constructor"
 author: cozmo
+sidebar:
+  nav: sb-cozmo
 categories:
   - Aide-Mémoire
 tags:
@@ -9,8 +11,6 @@ tags:
   - Robotique
 excerpt: Aide mémoire de Constructor pour programmer Cozmo. Constructor est un logiciel plus avancé que Sandbox. Il utilise des blocs similaires à Scratch.
 classes: wide
-sidebar:
-  nav: sb-cozmo
 assetsFolder: /assets/instructions/cozmo/
 ---
 
