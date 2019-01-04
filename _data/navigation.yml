@@ -24,5 +24,5 @@ sb-mindstorms:
     children:
       - title: <i class="fas fa-fw fa-paper-plane" aria-hidden="true"></i> Présentation
         url  : /author-mindstorms/
-      - title: <i class="fas fa-fw fa-paper-plane" aria-hidden="true"></i> Articles sur Cozmo
+      - title: <i class="fas fa-fw fa-paper-plane" aria-hidden="true"></i> Articles sur Mindstorms
         url  : /tags/#mindstorms
