@@ -1,5 +1,6 @@
 ---
 title: "Programmer Cozmo avec l'application Sandbox"
+author: cozmo
 categories:
   - Aide-Mémoire
 tags:

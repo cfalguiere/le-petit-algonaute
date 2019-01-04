@@ -1,5 +1,6 @@
 ---
 title: "Mise en route du Cozmo"
+author: cozmo
 categories:
   - Aide-Mémoire
 tags:

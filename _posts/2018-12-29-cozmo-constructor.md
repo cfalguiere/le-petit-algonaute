@@ -1,5 +1,6 @@
 ---
 title: "Programmer Cozmo avec l'application Constructor"
+author: cozmo
 categories:
   - Aide-Mémoire
 tags:
