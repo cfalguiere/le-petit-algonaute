@@ -11,7 +11,7 @@ layouts_gallery:
     image_path: /assets/images/about/aide-memoire.png
     alt: "Les aide mémoires"
   - url: /assets/images/about/tags.png
-    image_path: /assets/about/tags.png
+    image_path: /assets/images/about/tags.png
     alt: "Les articles par tag"
 last_modified_at: 2019-01-04T21:59:00+02:00s
 toc: true
