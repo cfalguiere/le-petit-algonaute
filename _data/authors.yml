@@ -14,7 +14,7 @@ cozmo:
     Il peut être programmé via son logiciel sur tablette ou smartphone.
   avatar      : "/assets/images/authors/cozmo.png"
 
-cozmo:
+mindstorms:
   name        : "Mindstorms"
   bio         : >
     Mindstorms est un kit de robotique basé sur des briques Lego Technic.
