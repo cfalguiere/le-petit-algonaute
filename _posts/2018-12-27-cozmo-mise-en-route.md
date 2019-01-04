@@ -3,7 +3,7 @@ title: "Mise en route du Cozmo"
 categories:
   - Aide-Mémoire
 tags:
-  - Cozmo
+  - Cozmo, "6-8 ans", "8-10 ans", Robotique
 excerpt: Aide mémoire de la procédure de mise en route du Cozmo
 classes: wide
 assetsFolder: /assets/instructions/cozmo/

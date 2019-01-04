@@ -3,7 +3,7 @@ title: "Programmer Cozmo avec l'application Sandbox"
 categories:
   - Aide-Mémoire
 tags:
-  - Cozmo
+  - Cozmo, "6-8 ans", "8-10 ans", "10 ans+", Robotique
 excerpt: Aide mémoire de Sandbox pour programmer Cozmo
 classes: wide
 assetsFolder: /assets/instructions/cozmo/
