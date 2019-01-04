@@ -5,7 +5,6 @@ categories:
 tags:
   - Cozmo
   - 7-9 ans
-  - 9 ans+
   - Robotique
 excerpt: Aide mémoire de Sandbox pour programmer Cozmo
 classes: wide
