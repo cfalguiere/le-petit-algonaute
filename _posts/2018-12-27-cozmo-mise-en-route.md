@@ -10,6 +10,8 @@ tags:
   - Robotique
 excerpt: Aide mémoire de la procédure de mise en route du Cozmo
 classes: wide
+sidebar:
+  nav: sb-cozmo
 assetsFolder: /assets/instructions/cozmo/
 ---
 

@@ -9,6 +9,8 @@ tags:
   - Robotique
 excerpt: Aide mémoire de Sandbox pour programmer Cozmo
 classes: wide
+sidebar:
+  nav: sb-cozmo
 assetsFolder: /assets/instructions/cozmo/
 ---
 
