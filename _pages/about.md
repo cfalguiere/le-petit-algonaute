@@ -4,15 +4,15 @@ title: "About"
 excerpt: "A la découverte de l'informatique et la robotique avec le petit algonaute."
 
 layouts_gallery:
-  - url: /assets/images/about/blog.png
-    image_path: /assets/images/about/blog.png
-    alt: "Le blog"
-  - url: /assets/images/about/aide-memoire.png
-    image_path: /assets/images/about/aide-memoire.png
-    alt: "Les aide mémoires"
   - url: /assets/images/about/tags.png
     image_path: /assets/images/about/tags.png
     alt: "Les articles par tag"
+  - url: /assets/images/about/aide-memoire.png
+    image_path: /assets/images/about/aide-memoire.png
+    alt: "Les aide mémoires"
+  - url: /assets/images/about/montage.png
+    image_path: /assets/images/about/montage.png
+    alt: "Plan de montage"
 last_modified_at: 2019-01-04T21:59:00+02:00s
 toc: true
 author_profile: true
