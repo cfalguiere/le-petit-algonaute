@@ -4,16 +4,16 @@ title: "About"
 excerpt: "A la découverte de l'informatique et la robotique avec le petit algonaute."
 
 layouts_gallery:
-  - url: /assets/images/about-home.png
-    image_path: /assets/images/about-home.png
-    alt: "example home"
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-last_modified_at: 2018-12-30T16:40:00+02:00s
+  - url: /assets/images/about/blog.png
+    image_path: /assets/images/about/blog.png
+    alt: "Le blog"
+  - url: /assets/images/about/aide-memoire.png
+    image_path: /assets/images/about/aide-memoire.png
+    alt: "Les aide mémoires"
+  - url: /assets/images/about/tags.png
+    image_path: /assets/about/tags.png
+    alt: "Les articles par tag"
+last_modified_at: 2019-01-04T21:59:00+02:00s
 toc: true
 author_profile: true
 author: cfalguiere
