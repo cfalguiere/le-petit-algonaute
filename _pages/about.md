@@ -15,6 +15,8 @@ layouts_gallery:
     alt: "single layout with comments and related posts"
 last_modified_at: 2018-12-30T16:40:00+02:00s
 toc: true
+author_profile: true
+author: cfalguiere
 ---
 
 Le petit algonaute est un blog dédié à la découverte de l'informatique et la robotique. Il est destiné plus particulièrement aux enfants, aux enseignants et éducateurs menant des ateliers.
