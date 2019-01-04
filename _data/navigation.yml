@@ -12,9 +12,9 @@ main:
   #   url: /sitemap/
 
 sb-cozmo:
-  - title   : En savoir plus
-    text    : Cozmo est un petit robot
+  - title   : <span class-"fas fa-fw fa-paper-plane"> </span>En savoir plus
     children:
-      - title: "En savoir plus"
-        icon : "fas fa-fw fa-paper-plane"
+      - title: "Présentation"
         url  : /author-cozmo/
+      - title: "Articles sur Cozmo"
+        url  : /tags-archive/#cozmo
