@@ -4,8 +4,8 @@ categories:
   - Aide-Mémoire
 tags:
   - Cozmo
-  - 6-8 ans
-  - 8-10 ans
+  - 7-9 ans
+  - 9 ans+
   - Robotique
 excerpt: Aide mémoire de la procédure de mise en route du Cozmo
 classes: wide

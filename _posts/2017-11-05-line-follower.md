@@ -4,6 +4,8 @@ categories:
   - Blog
 tags:
   - Mindstorms
+  - 9 ans+
+  - Robotique
 excerpt: Programmer un suivi de ligne avec le Mindstorms
 classes: wide
 assetsFolder: /assets/instructions/mindstorms/

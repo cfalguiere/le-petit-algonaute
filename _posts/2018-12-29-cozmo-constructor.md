@@ -4,7 +4,7 @@ categories:
   - Aide-Mémoire
 tags:
   - Cozmo
-  - 10 ans+
+  - 9 ans+
   - Robotique
 excerpt: Aide mémoire de Constructor pour programmer Cozmo. Constructor est un logiciel plus avancé que Sandbox. Il utilise des blocs similaires à Scratch.
 classes: wide
