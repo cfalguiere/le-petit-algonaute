@@ -1,5 +1,5 @@
 ---
-permalink: /cozmo/
+permalink: /author-cozmo/
 title: "Cozmo"
 excerpt: >
     Cozmo est un petit robot très joueur.
