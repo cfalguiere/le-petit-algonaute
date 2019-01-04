@@ -7,6 +7,7 @@ tags:
   - CoderDojo
   - 9 ans+
   - Robotique
+  - Dessin
 excerpt: Montage d'un robot Mindstorms qui permet de dessiner
 toc: true
 toc_label: "sections"
