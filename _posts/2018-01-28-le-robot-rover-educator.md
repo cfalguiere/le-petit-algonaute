@@ -43,7 +43,7 @@ montage_debut_gallery:
   - url: /assets/images/posts/2018-01-28/steps_01_educator/013.jpg
     image_path: /assets/images/posts/2018-01-28/steps_01_educator/013.jpg
   - url: /assets/images/posts/2018-01-28/steps_01_educator/014.jpg
-    image_path: /assets/images/posts/2018-01-28/steps_01_educator/014.jpeg
+    image_path: /assets/images/posts/2018-01-28/steps_01_educator/014.jpg
   - url: /assets/images/posts/2018-01-28/steps_01_educator/015.jpg
     image_path: /assets/images/posts/2018-01-28/steps_01_educator/015.jpg
   - url: /assets/images/posts/2018-01-28/steps_01_educator/016.jpg
