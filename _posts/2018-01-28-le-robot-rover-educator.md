@@ -42,7 +42,7 @@ montage_debut_gallery:
     image_path: /assets/images/posts/2018-01-28/steps_01_educator/012.jpg
   - url: /assets/images/posts/2018-01-28/steps_01_educator/013.jpg
     image_path: /assets/images/posts/2018-01-28/steps_01_educator/013.jpg
-  - url: /assets/images/posts/2018-01-28/steps_01_educator/014.jpeg
+  - url: /assets/images/posts/2018-01-28/steps_01_educator/014.jpg
     image_path: /assets/images/posts/2018-01-28/steps_01_educator/014.jpeg
   - url: /assets/images/posts/2018-01-28/steps_01_educator/015.jpg
     image_path: /assets/images/posts/2018-01-28/steps_01_educator/015.jpg
@@ -62,6 +62,9 @@ montage_debut_gallery:
     image_path: /assets/images/posts/2018-01-28/steps_01_educator/022.jpg
   - url: /assets/images/posts/2018-01-28/steps_01_educator/023.jpg
     image_path: /assets/images/posts/2018-01-28/steps_01_educator/023.jpg
+  - url: /assets/images/posts/2018-01-28/steps_01_educator/024.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_01_educator/024.jpg
+
 montage_fin_gallery:
   - url: /assets/images/posts/2018-01-28/steps_09_educator/040.jpg
     image_path: /assets/images/posts/2018-01-28/steps_09_educator/040.jpg
@@ -77,6 +80,7 @@ montage_fin_gallery:
     image_path: /assets/images/posts/2018-01-28/steps_09_educator/045.jpg
   - url: /assets/images/posts/2018-01-28/steps_09_educator/046.jpg
     image_path: /assets/images/posts/2018-01-28/steps_09_educator/046.jpg
+
 montage_color_sensor_ground_gallery:
   - url: /assets/images/posts/2018-01-28/steps_color_sensor_ground/047.jpg
     image_path: /assets/images/posts/2018-01-28/steps_color_sensor_ground/047.jpg
@@ -92,6 +96,7 @@ montage_color_sensor_ground_gallery:
     image_path: /assets/images/posts/2018-01-28/steps_color_sensor_ground/052.jpg
   - url: /assets/images/posts/2018-01-28/steps_color_sensor_ground/053.jpg
     image_path: /assets/images/posts/2018-01-28/steps_color_sensor_ground/053.jpg
+
 montage_color_sensor_front_gallery:
   - url: /assets/images/posts/2018-01-28/steps_color_sensor_front/054.jpg
     image_path: /assets/images/posts/2018-01-28/steps_color_sensor_front/054.jpg
@@ -107,6 +112,7 @@ montage_color_sensor_front_gallery:
     image_path: /assets/images/posts/2018-01-28/steps_color_sensor_front/059.jpg
   - url: /assets/images/posts/2018-01-28/steps_color_sensor_front/060.jpg
     image_path: /assets/images/posts/2018-01-28/steps_color_sensor_front/060.jpg
+
 montage_touch_sensor_gallery:
   - url: /assets/images/posts/2018-01-28/steps_touch_sensor/061.jpg
     image_path: /assets/images/posts/2018-01-28/steps_touch_sensor/061.jpg
@@ -122,6 +128,7 @@ montage_touch_sensor_gallery:
     image_path: /assets/images/posts/2018-01-28/steps_touch_sensor/066.jpg
   - url: /assets/images/posts/2018-01-28/steps_touch_sensor/067.jpg
     image_path: /assets/images/posts/2018-01-28/steps_touch_sensor/067.jpg
+
 montage_distance_sensor_gallery:
   - url: /assets/images/posts/2018-01-28/steps_distance_sensor/068.jpg
     image_path: /assets/images/posts/2018-01-28/steps_distance_sensor/068.jpg
@@ -141,6 +148,7 @@ montage_distance_sensor_gallery:
     image_path: /assets/images/posts/2018-01-28/steps_distance_sensor/075.jpg
   - url: /assets/images/posts/2018-01-28/steps_distance_sensor/076.jpg
     image_path: /assets/images/posts/2018-01-28/steps_distance_sensor/076.jpg
+
 montage_front_motor_gallery:
   - url: /assets/images/posts/2018-01-28/steps_front_motor/077.jpg
     image_path: /assets/images/posts/2018-01-28/steps_front_motor/077.jpg
@@ -184,6 +192,7 @@ montage_front_motor_gallery:
     image_path: /assets/images/posts/2018-01-28/steps_front_motor/096.jpg
   - url: /assets/images/posts/2018-01-28/steps_front_motor/097.jpg
     image_path: /assets/images/posts/2018-01-28/steps_front_motor/097.jpg
+
 montage_gyro_sensor_gallery:
   - url: /assets/images/posts/2018-01-28/steps_gyro_sensor/098.jpg
     image_path: /assets/images/posts/2018-01-28/steps_gyro_sensor/098.jpg
@@ -243,9 +252,12 @@ Les étapes modifiées pour l'EV3 Home sont :
 - l'attache de la roue folle de l'étape 24 à l'étape 34
 - la pose de la brique de contrôle de l'étape 36 à l'étape 39
 
+Les étapes 1 à 23 et 40 à 46 sont conservées sans changement
+
+
 ## Les premières étapes du montage
 
-Suivez les instructions <b><span style="color:red">jusqu'à l'étape 23</span></b>
+Suivez les instructions ci-dessous. Cliquez sur la première image pour agrandir.
 
 {% include gallery id="montage_debut_gallery"  %}
 
@@ -315,7 +327,7 @@ La barre à l'arrière n'est pas indispensable. Elle permet de tenir les cables.
 
 ## La suite du montage du rover Educator
 
-Reprenez les instructions <b><span style="color:red">à l'étape 40</span></b>
+Suivez les instructions ci-dessous. Cliquez sur la première image pour agrandir.
 
 {% include gallery id="montage_fin_gallery"  %}
 
