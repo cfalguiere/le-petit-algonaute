@@ -18,7 +18,7 @@ mindstorms:
   name        : "Mindstorms"
   bio         : >
     Mindstorms est un kit de robotique basé sur des briques Lego Technic.
-    Il peut être programmé via un logiciel graphique iu des langages de programmation.
+    Il peut être programmé via un logiciel graphique ou des langages de programmation.
 
 Cornelius Fiddlebone:
   name        : "Cornelius Fiddlebone"
