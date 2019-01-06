@@ -64,6 +64,8 @@ montage_debut_gallery:
     image_path: /assets/images/posts/2018-01-28/steps_01_educator/023.jpg
   - url: /assets/images/posts/2018-01-28/steps_01_educator/024.jpg
     image_path: /assets/images/posts/2018-01-28/steps_01_educator/024.jpg
+  - url: /assets/images/posts/2018-01-28/steps_01_educator/END.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_01_educator/END.jpg
 
 montage_fin_gallery:
   - url: /assets/images/posts/2018-01-28/steps_09_educator/040.jpg
@@ -80,6 +82,8 @@ montage_fin_gallery:
     image_path: /assets/images/posts/2018-01-28/steps_09_educator/045.jpg
   - url: /assets/images/posts/2018-01-28/steps_09_educator/046.jpg
     image_path: /assets/images/posts/2018-01-28/steps_09_educator/046.jpg
+  - url: /assets/images/posts/2018-01-28/steps_09_educator/END.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_09_educator/END.jpg
 
 montage_color_sensor_ground_gallery:
   - url: /assets/images/posts/2018-01-28/steps_color_sensor_ground/047.jpg
@@ -96,6 +100,8 @@ montage_color_sensor_ground_gallery:
     image_path: /assets/images/posts/2018-01-28/steps_color_sensor_ground/052.jpg
   - url: /assets/images/posts/2018-01-28/steps_color_sensor_ground/053.jpg
     image_path: /assets/images/posts/2018-01-28/steps_color_sensor_ground/053.jpg
+  - url: /assets/images/posts/2018-01-28/steps_color_sensor_ground/END.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_color_sensor_ground/END.jpg
 
 montage_color_sensor_front_gallery:
   - url: /assets/images/posts/2018-01-28/steps_color_sensor_front/054.jpg
@@ -112,6 +118,8 @@ montage_color_sensor_front_gallery:
     image_path: /assets/images/posts/2018-01-28/steps_color_sensor_front/059.jpg
   - url: /assets/images/posts/2018-01-28/steps_color_sensor_front/060.jpg
     image_path: /assets/images/posts/2018-01-28/steps_color_sensor_front/060.jpg
+  - url: /assets/images/posts/2018-01-28/steps_color_sensor_front/END.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_color_sensor_front/END.jpg
 
 montage_touch_sensor_gallery:
   - url: /assets/images/posts/2018-01-28/steps_touch_sensor/061.jpg
@@ -128,6 +136,8 @@ montage_touch_sensor_gallery:
     image_path: /assets/images/posts/2018-01-28/steps_touch_sensor/066.jpg
   - url: /assets/images/posts/2018-01-28/steps_touch_sensor/067.jpg
     image_path: /assets/images/posts/2018-01-28/steps_touch_sensor/067.jpg
+  - url: /assets/images/posts/2018-01-28/steps_touch_sensor/END.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_touch_sensor/END.jpg
 
 montage_distance_sensor_gallery:
   - url: /assets/images/posts/2018-01-28/steps_distance_sensor/068.jpg
@@ -148,6 +158,8 @@ montage_distance_sensor_gallery:
     image_path: /assets/images/posts/2018-01-28/steps_distance_sensor/075.jpg
   - url: /assets/images/posts/2018-01-28/steps_distance_sensor/076.jpg
     image_path: /assets/images/posts/2018-01-28/steps_distance_sensor/076.jpg
+  - url: /assets/images/posts/2018-01-28/steps_distance_sensor/END.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_distance_sensor/END.jpg
 
 montage_front_motor_gallery:
   - url: /assets/images/posts/2018-01-28/steps_front_motor/077.jpg
@@ -192,6 +204,8 @@ montage_front_motor_gallery:
     image_path: /assets/images/posts/2018-01-28/steps_front_motor/096.jpg
   - url: /assets/images/posts/2018-01-28/steps_front_motor/097.jpg
     image_path: /assets/images/posts/2018-01-28/steps_front_motor/097.jpg
+  - url: /assets/images/posts/2018-01-28/steps_front_motor/END.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_front_motor/END.jpg
 
 montage_gyro_sensor_gallery:
   - url: /assets/images/posts/2018-01-28/steps_gyro_sensor/098.jpg
@@ -214,6 +228,8 @@ montage_gyro_sensor_gallery:
     image_path: /assets/images/posts/2018-01-28/steps_gyro_sensor/106.jpg
   - url: /assets/images/posts/2018-01-28/steps_gyro_sensor/107.jpg
     image_path: /assets/images/posts/2018-01-28/steps_gyro_sensor/107.jpg
+  - url: /assets/images/posts/2018-01-28/steps_gyro_sensor/END.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_gyro_sensor/END.jpg
 
 ---
 
