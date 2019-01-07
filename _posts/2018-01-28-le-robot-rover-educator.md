@@ -64,8 +64,6 @@ montage_gallery:
     image_path: /assets/images/posts/2018-01-28/steps_01_educator/023.jpg
   - url: /assets/images/posts/2018-01-28/steps_01_educator/024.jpg
     image_path: /assets/images/posts/2018-01-28/steps_01_educator/024.jpg
-  - url: /assets/images/posts/2018-01-28/steps_01_educator/END.jpg
-    image_path: /assets/images/posts/2018-01-28/steps_01_educator/END.jpg
 
   - url: /assets/images/posts/2018-01-28/steps_02_roue_folle/000.jpg
     image_path: /assets/images/posts/2018-01-28/steps_02_roue_folle/000.jpg
