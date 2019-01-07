@@ -15,7 +15,7 @@ toc_label: "sections"
 toc_icon: "list"
 toc_sticky: true
 assets_folder: /assets/images/posts/2018-01-28/
-montage_debut_gallery:
+montage_gallery:
   - url: /assets/images/posts/2018-01-28/steps_01_educator/001.jpg
     image_path: /assets/images/posts/2018-01-28/steps_01_educator/001.jpg
   - url: /assets/images/posts/2018-01-28/steps_01_educator/002.jpg
@@ -67,7 +67,45 @@ montage_debut_gallery:
   - url: /assets/images/posts/2018-01-28/steps_01_educator/END.jpg
     image_path: /assets/images/posts/2018-01-28/steps_01_educator/END.jpg
 
-montage_fin_gallery:
+  - url: /assets/images/posts/2018-01-28/steps_02_roue_folle/000.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_02_roue_folle/000.jpg
+  - url: /assets/images/posts/2018-01-28/steps_02_roue_folle/001.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_02_roue_folle/001.jpg
+  - url: /assets/images/posts/2018-01-28/steps_02_roue_folle/002.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_02_roue_folle/002.jpg
+  - url: /assets/images/posts/2018-01-28/steps_02_roue_folle/003.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_02_roue_folle/003.jpg
+  - url: /assets/images/posts/2018-01-28/steps_02_roue_folle/004.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_02_roue_folle/004.jpg
+  - url: /assets/images/posts/2018-01-28/steps_02_roue_folle/005.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_02_roue_folle/005.jpg
+  - url: /assets/images/posts/2018-01-28/steps_02_roue_folle/006.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_02_roue_folle/006.jpg
+  - url: /assets/images/posts/2018-01-28/steps_02_roue_folle/000.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_02_roue_folle/000.jpg
+
+  - url: /assets/images/posts/2018-01-28/steps_07_educator/036.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_07_educator/036.jpg
+
+  - url: /assets/images/posts/2018-01-28/steps_08_support/001.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_08_support/001.jpg
+  - url: /assets/images/posts/2018-01-28/steps_08_support/002.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_08_support/002.jpg
+  - url: /assets/images/posts/2018-01-28/steps_08_support/003.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_08_support/003.jpg
+  - url: /assets/images/posts/2018-01-28/steps_08_support/004.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_08_support/004.jpg
+  - url: /assets/images/posts/2018-01-28/steps_08_support/005.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_08_support/005.jpg
+  - url: /assets/images/posts/2018-01-28/steps_08_support/006.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_08_support/006.jpg
+  - url: /assets/images/posts/2018-01-28/steps_08_support/007.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_08_support/007.jpg
+
+  - url: /assets/images/posts/2018-01-28/steps_09_educator/038.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_09_educator/038.jpg
+  - url: /assets/images/posts/2018-01-28/steps_09_educator/039.jpg
+    image_path: /assets/images/posts/2018-01-28/steps_09_educator/0390.jpg
   - url: /assets/images/posts/2018-01-28/steps_09_educator/040.jpg
     image_path: /assets/images/posts/2018-01-28/steps_09_educator/040.jpg
   - url: /assets/images/posts/2018-01-28/steps_09_educator/041.jpg
@@ -252,100 +290,18 @@ Ce rover rappelle un peu les rovers lunaires :
 <br>
 <span class="fas fa-fw fa-clock" aria-hidden="true"></span>&nbsp; 30 mn
 
-![Rover Monté]({{site.baseurl}}{{page.assets_folder}}/0-ensemble/dessinateurv2-all-small.png)
+![Rover Monté]({{site.baseurl}}{{page.assets_folder}}/rover.png)
 
 
-## Le plan de montage original du rover Educator
 
-Educator est un rover simple et rapide à monter. Il est conçu pour intégrer facilement les divers capteurs.
-
-<i>Crédit : <a href="http://robotsquare.com">Robotsquare.com</a></i>
-
-[Télécharger le plan de montage du rover](http://robotsquare.com/wp-content/uploads/2013/10/45544_educator.pdf)
-
-Les étapes modifiées pour l'EV3 Home sont :
-
-- l'attache de la roue folle de l'étape 24 à l'étape 34
-- la pose de la brique de contrôle de l'étape 36 à l'étape 39
-
-Les étapes 1 à 23 et 40 à 46 sont conservées sans changement
-
-
-## Les premières étapes du montage
+## Les  étapes du montage
 
 Suivez les instructions ci-dessous. Cliquez sur la première image pour agrandir.
 
-{% include gallery id="montage_debut_gallery"  %}
+{% include gallery id="montage_gallery"  %}
 
 
-## la roue folle
-
-Le rover Educator utilise une roue folle (back caster en anglais).
-
-C'est une pièce dans laquelle on insère une bille qui tourne librement. Cette roue est donc mobile dans toutes les directions et ne freine pas le robot.
-
-![roue folle]({{site.baseurl}}{{page.assets_folder}}/backcaster/back-caster.png)
-![piece manquante]({{site.baseurl}}{{page.assets_folder}}/backcaster/piece-manquante-1.png)
-
-La roue folle n'est pas fournie dans le kit commercial. Les roues folles s'achètent par 2 pour une dizaine d'euros.
-Le rover Educator utilise aussi une piece en angle qui n'est pas fournie.
-
-
-
-Les deux peuvent être remplacés par une des solutions ci-dessous. Il est important que la roue folle ne soit pas trop en arrière du chassis pour bien soutenir le robot et que sa fixation soit rigide.
-
-
-### Option 1
-
-La pièce en angle peut être remplacée par un montage de ce type :
-
-![plan de roue folle]({{site.baseurl}}{{page.assets_folder}}/backcaster/rover-roue-folle.png)
-
-Voici le plan de montage
-
-<embed src="{{site.baseurl}}{{page.assets_folder}}/backcaster/rover-roue-folle.pdf" width="650px" height="480px" />
-[Télécharger le plan de montage de la roue folle]({{site.baseurl}}{{page.assets_folder}}/backcaster/rover-roue-folle.pdf)
-
-### Option 2
-
-Si vous n'avez pas de roue folle, vous pouvez utiliser un montage de ce type.
-
-![plan de roue folle alternative]({{site.baseurl}}{{page.assets_folder}}/backcaster/rover-pseudo-roue.png)
-
-Ce sont les deux petites roues grises qui font office de roue. L'axe beige leur permet de tourner dans toutes directions.
-
-
-----
-
-## La pose de la brique de contrôle
-
-Le rover Educator utilise aussi une piece en angle qui n'est pas fournie.
-
-![piece manquante 2]({{site.baseurl}}{{page.assets_folder}}/piece-manquante-2.png)
-
-
-Cette pièce sert à compenser une rangée et attacher la brique de contrôle aux moteurs à l'arrière du robot.
-
-Vous pouvez utiliser un montage de ce type.
-
-![plan de l'attache de la brique]({{site.baseurl}}{{page.assets_folder}}/pose-brique.png)
-
-Voici le plan de montage
-
-<embed src="{{site.baseurl}}{{page.assets_folder}}/rover-pose-brique.pdf" width="650px" height="480px" />
-
-[Télécharger le plan de montage de la roue folle]({{site.baseurl}}{{page.assets_folder}}/rover-pose-brique.pdf)
-
-
-La barre à l'arrière n'est pas indispensable. Elle permet de tenir les cables.
-
-----
-
-## La suite du montage du rover Educator
-
-Suivez les instructions ci-dessous. Cliquez sur la première image pour agrandir.
-
-{% include gallery id="montage_fin_gallery"  %}
+TODO pdf adapté
 
 ----
 
@@ -388,3 +344,86 @@ Ce type de montage est utile pour faire un levier
 Ce type de montage est utile pour monter un capteur à l'arrière.
 
 {% include gallery id="montage_gyro_sensor_gallery"  %}
+
+
+----
+
+## Crédits et adaptation
+
+### Le plan de montage original du rover Educator
+
+Educator est un rover simple et rapide à monter. Il est conçu pour intégrer facilement les divers capteurs.
+
+<i>Crédit : <a href="http://robotsquare.com">Robotsquare.com</a></i>
+
+[Télécharger le plan de montage du rover](http://robotsquare.com/wp-content/uploads/2013/10/45544_educator.pdf)
+
+Les étapes modifiées pour l'EV3 Home sont :
+
+- l'attache de la roue folle de l'étape 24 à l'étape 34
+- la pose de la brique de contrôle de l'étape 36 à l'étape 39
+
+Les étapes 1 à 23 et 40 à 46 sont conservées sans changement
+
+### la roue folle
+
+Le rover Educator utilise une roue folle (back caster en anglais).
+
+C'est une pièce dans laquelle on insère une bille qui tourne librement. Cette roue est donc mobile dans toutes les directions et ne freine pas le robot.
+
+![roue folle]({{site.baseurl}}{{page.assets_folder}}/backcaster/back-caster.png)
+![piece manquante]({{site.baseurl}}{{page.assets_folder}}/backcaster/piece-manquante-1.png)
+
+La roue folle n'est pas fournie dans le kit commercial. Les roues folles s'achètent par 2 pour une dizaine d'euros.
+Le rover Educator utilise aussi une piece en angle qui n'est pas fournie.
+
+
+
+Les deux peuvent être remplacés par une des solutions ci-dessous. Il est important que la roue folle ne soit pas trop en arrière du chassis pour bien soutenir le robot et que sa fixation soit rigide.
+
+
+#### Option 1
+
+La pièce en angle peut être remplacée par un montage de ce type :
+
+![plan de roue folle]({{site.baseurl}}{{page.assets_folder}}/backcaster/rover-roue-folle.png)
+
+Voici le plan de montage
+
+<embed src="{{site.baseurl}}{{page.assets_folder}}/backcaster/rover-roue-folle.pdf" width="650px" height="480px" />
+[Télécharger le plan de montage de la roue folle]({{site.baseurl}}{{page.assets_folder}}/backcaster/rover-roue-folle.pdf)
+
+#### Option 2
+
+Si vous n'avez pas de roue folle, vous pouvez utiliser un montage de ce type.
+
+![plan de roue folle alternative]({{site.baseurl}}{{page.assets_folder}}/backcaster/rover-pseudo-roue.png)
+
+Ce sont les deux petites roues grises qui font office de roue. L'axe beige leur permet de tourner dans toutes directions.
+
+
+
+
+### La pose de la brique de contrôle
+
+Le rover Educator utilise aussi une piece en angle qui n'est pas fournie.
+
+![piece manquante 2]({{site.baseurl}}{{page.assets_folder}}/piece-manquante-2.png)
+
+
+Cette pièce sert à compenser une rangée et attacher la brique de contrôle aux moteurs à l'arrière du robot.
+
+Vous pouvez utiliser un montage de ce type.
+
+![plan de l'attache de la brique]({{site.baseurl}}{{page.assets_folder}}/pose-brique.png)
+
+Voici le plan de montage
+
+<embed src="{{site.baseurl}}{{page.assets_folder}}/rover-pose-brique.pdf" width="650px" height="480px" />
+
+[Télécharger le plan de montage de la roue folle]({{site.baseurl}}{{page.assets_folder}}/rover-pose-brique.pdf)
+
+
+La barre à l'arrière n'est pas indispensable. Elle permet de tenir les cables.
+
+----
