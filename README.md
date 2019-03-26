@@ -1,1 +1,1 @@
-Le site est là https://cfalguiere.github.io/le-petit-algonaute-tests-mm/.
+Le site est là https://cfalguiere.github.io/le-petit-algonaute
