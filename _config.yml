@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "shadow2" #"shadow" #"dark" # "default" # "air", "aqu
 locale                   : "fr-FR"
 title                    : "Le petit algonaute"
 title_separator          : "-"
-logo                     : "/assets/images/logo-white-tr-image-600-200.png"
+logo                     : "/assets/images/logo-white-tr-image-1200-600.png"
 name                     : "Le petit algonaute"
 description              : "Découvrir l'informatique en s'amusant."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
