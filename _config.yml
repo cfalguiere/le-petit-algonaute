@@ -22,7 +22,7 @@ logo                     : "/assets/images/logo-white-tr-image-600-200.png"
 name                     : "Le petit algonaute"
 description              : "Découvrir l'informatique en s'amusant."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : /le-petit-algonaute-tests-mm/ # the subpath of your site, e.g. "/blog"
+baseurl                  : /le-petit-algonaute/ # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
