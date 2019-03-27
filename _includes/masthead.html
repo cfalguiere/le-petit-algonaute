@@ -7,7 +7,7 @@
         -->
         <a class="site-title" href="{{ '/' | relative_url }}">
           <figure style="margin-left: 0em;margin-top: 0em;margin-bottom: 0em;">
-            {% if page.banner_tall %}
+            {% if page.banner == 'tall' %}
              <img src="{{site.baseurl}}{{site.banner_tall}}">
             {% else %}
               <img src="{{site.baseurl}}{{site.banner_short}}">
