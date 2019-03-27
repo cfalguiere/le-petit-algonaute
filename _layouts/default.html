@@ -17,7 +17,9 @@
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
 
     {% include_cached browser-upgrade.html %}
-    {% if page.banner != 'custom' %}
+    {% if page.banner %}
+       {% include masthead.html %}
+    {% else %}
        {% include_cached masthead.html %}
     {% endif %}
 
