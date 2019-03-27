@@ -9,9 +9,15 @@
           <figure style="margin-left: 0em;margin-top: 0em;margin-bottom: 0em;">
             {% if page.layout == 'splash' %}
               <img src="{{site.baseurl}}{{site.banner_tall}}">
-            {% else %}
+              <p>
+                {{ page.layout }}
+              </p>
+              {% else %}
               <img src="{{site.baseurl}}{{site.banner_short}}">
-            {% endif %}
+              <p>
+                {{ page.layout }}
+              </p>
+           {% endif %}
           </figure>
         </a>
 
