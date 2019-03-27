@@ -18,6 +18,11 @@
 
     {% include_cached browser-upgrade.html %}
     {% include_cached masthead.html %}
+    {% if page.banner == 'tall' %}
+       {% include masthead.html %}
+    {% else %}
+       {% include_cached masthead.html %}
+    {% endif %}
 
     <div class="initial-content">
       {{ content }}
