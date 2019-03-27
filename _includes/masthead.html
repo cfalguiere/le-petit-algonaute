@@ -7,15 +7,15 @@
         -->
         <a class="site-title" href="{{ '/' | relative_url }}">
           <figure style="margin-left: 0em;margin-top: 0em;margin-bottom: 0em;">
-            {% if page.layout == 'splash' %}
+            {% if page.banner == 'tall' %}
               <img src="{{site.baseurl}}{{site.banner_tall}}">
               <p>
-                {{ page.layout }}
+                {{ page.banner }}
               </p>
               {% else %}
               <img src="{{site.baseurl}}{{site.banner_short}}">
               <p>
-                {{ page.layout }}
+                {{ page.banner }}
               </p>
            {% endif %}
           </figure>
