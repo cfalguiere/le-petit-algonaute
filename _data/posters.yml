@@ -1,0 +1,11 @@
+- name: cozmo-01
+  category: Cozmo
+  thumbnail: cozmo-01-demarrer-w300.png
+  image: cozmo-01-demarrer.png
+  description: Démarrer Cozmo
+
+- name: cozmo-02
+  category: Cozmo
+  thumbnail: cozmo-02-utiliser-w300.png
+  image: cozmo-02-utiliser.png
+  description: Utiliser Cozmo
