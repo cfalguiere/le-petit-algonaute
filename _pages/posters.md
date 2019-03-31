@@ -3,7 +3,7 @@ permalink: /posters/
 title: "Posters"
 layout: default
 classes: wide
-assets_folder: assets/posters
+assets_folder: assets/posters/
 ---
 
 {% for poster in site.data.posters %}
