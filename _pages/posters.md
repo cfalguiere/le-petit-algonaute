@@ -7,7 +7,7 @@ assets_folder: assets/posters/
 ---
 
 <div>
-  <span style="font-family: 'Dancing Script', cursive;font-weight: bold;">Les posters</span>
+  <span style="font-size:2em;font-family: 'Dancing Script', cursive;font-weight: bold;">Les posters</span>
 
 </div>
 
@@ -15,7 +15,7 @@ assets_folder: assets/posters/
 
   <div style="float:left;margin: 5px">
     <div>
-      <span style="font-weight: bold;"><i class="fas fa-fw fa-tags" aria-hidden="true"></i>{{ poster.category }}</span><br>
+      <span style="font-size:0.5em;font-weight: bold;"><i class="fas fa-fw fa-tags" aria-hidden="true"></i>{{ poster.category }}</span><br>
       <a href="{{site.baseurl}}{{page.assets_folder}}{{poster.image}}" target="_blank" class=".btn .btn--success .btn--large">
         <img src="{{site.baseurl}}{{page.assets_folder}}{{poster.thumbnail}}" alt="{{poster.description}}">
       </a>
