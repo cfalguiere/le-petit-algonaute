@@ -21,3 +21,9 @@
   thumbnail: cozmo-04-constructor-w300.png
   image: cozmo-04-constructor.png
   description: Cozmo Constructor
+
+- name: mindstorms-03
+  category: Mindstorms
+  thumbnail: mindstorms-03-2-steps-line-follower-w300.png
+  image: mindstorms-03-2-steps-line-follower.png
+  description: Mindstorms 2 Steps Line Follower
