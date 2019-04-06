@@ -26,14 +26,11 @@
           alt="">
       </div>
     {% endif %}
-    <div style="float:left;width:40px;height:40px;">
+    <div class="author__avatar" style="float:left;">
       {% if author.avatar %}
-         <div class="author__avatar">
            {% assign author_src = author.avatar | relative_url %}
             <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
-         </div>
       {% endif %}
-    </div>
     <div>
       <h2 class="archive__item-title" itemprop="headline">
         {% if post.link %}
