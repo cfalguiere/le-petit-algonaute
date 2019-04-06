@@ -30,7 +30,7 @@
     <table style="width:100%">
       <tr>
       <td style="width:30px;">
-        <div class="posts__avatar" style="margin-top:20px">
+        <div class="posts__avatar" >
           {% if author.avatar %}
                {% assign author_src = author.avatar | relative_url %}
                 <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
