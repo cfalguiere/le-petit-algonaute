@@ -1,56 +1,46 @@
 ---
 permalink: /about/
-title: "About"
-excerpt: "A la découverte de l'informatique et la robotique avec le petit algonaute."
+title: "Qui suis je ?"
 
 layouts_gallery:
-  - url: /assets/images/about/tags.png
-    image_path: /assets/images/about/tags.png
+  - url: https://fr.wikipedia.org/wiki/Licence_de_libre_diffusion
+    image_path: /assets/images/about/cc-licence.png
     alt: "Les articles par tag"
-  - url: /assets/images/about/aide-memoire.png
-    image_path: /assets/images/about/aide-memoire.png
-    alt: "Les aide mémoires"
-  - url: /assets/images/about/montage.png
-    image_path: /assets/images/about/montage.png
-    alt: "Plan de montage"
-last_modified_at: 2019-01-04T21:59:00+02:00s
-toc: true
+
+last_modified_at: 2019-04-06T16:20:00+02:00s
 author_profile: true
 author: cfalguiere
+banner: /assets/images/logo-white-tr-image-1200-600.png
 ---
 
-Le petit algonaute est un blog dédié à la découverte de l'informatique et la robotique. Il est destiné plus particulièrement aux enfants, aux enseignants et éducateurs menant des ateliers.
+Toutenalgo Le petit algonaute est le personnage principal de ce site. Il va accompagner les enfants et leur faire découvrir son monde, celui de l'informatique et de la robotique.
 
-{% include gallery id="layouts_gallery" caption="Le site contient des posts classés par catégorie, des fiches par outil et des supports de projets" %}
+Dans son monnde, un programme peut dessiner, se déplacer, faire de la musique, raconter des histoire.
 
-Ce site sert de support pour le Coder Dojo Paris
+Toutenalgo Le petit algonaute est un blog destiné plus particulièrement aux enfants interessés par l'informatique et la programmation. Mais si vous êtes un grand enfant vous y trouverez aussi votre bonheur.
 
-## Qu'est ce que je peux y trouver ?
+Il s'adresse aussi plus particulièrement aux enseignants et éducateurs qui menent des ateliers. Ce site sert de support pour le Coder Dojo Paris et d'autres ateliers pour enfants ou ados. Tout le matériel -sauf mention contraire- est sous licence Creative Commons.
 
-- Des informations sur les outils éducatifs liés à l'informatique, la robotique et l'électronique.
-- Des fiches de mise en route pour ces outils.
-- Des exemples de projets.
-- Des conseils pour mener les ateliers.
+Le but de ce site est de partager :
+- Des informations sur les outils éducatifs liés à l'informatique, la robotique et l'électronique
+- Des fiches de mise en route pour ces outils
+- Des exemples de projets
+- Des conseils pour mener les ateliers
 
-## Les sections principales
+[Plan du site](/plan/)
 
-| Nom                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Blog](/blog/) | Les articles postés du plus récent au plus ancien |
-| [Tags](/tags/) | Les articles postés par sujet |
-| [Catégories](/categories/) | Les articles postés par type |
+Ce site est conçu et maintenu par [Claude Falguiere](https://cfalguiere.github.io/)
 
----
+## Licence
+
+{% include gallery id="layouts_gallery" %}
+
 
 ## Crédits
 
 Ce site est réalisé en utilisant Jekyll et le thème Minimal Mistakes.
 
-
 - [Jekyll](https://jekyllrb.com/)
 - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistake)
 
 
----
-
-Ce site est conçu et maintenu par [Claude Falguiere](https://cfalguiere.github.io/)
