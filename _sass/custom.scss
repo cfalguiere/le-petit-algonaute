@@ -3,14 +3,25 @@
    ========================================================================== */
 
 .posts__avatar {
-  width: 30px;
-  height: 30px;
-  border-radius: 50%;
+  display: table-cell;
+  vertical-align: top;
+  width: 28px;
+  height: 28px;
+  margin-top: 20px;
 
   @include breakpoint($large) {
-    width: 60px;
-    height: 60px;
-    padding: 4px;
-    border: 1px solid $border-color;
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
+  img {
+    max-width: 110px;
+    border-radius: 50%;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
   }
 }
