@@ -21,7 +21,7 @@ Dans le monde de Toutenalgo et de ses amis algonautes, un programme peut dessine
 
 Ce site est destiné plus particulièrement aux enfants qui veulent découvrir ce que l'on peut faire avec des ordinateurs et réaliser des programmes. Mais si vous êtes un grand enfant vous y trouverez aussi votre bonheur.
 
-Ce site s'adresse aussi aux enseignants et éducateurs qui menent des ateliers. Il sert de support pour le Coder Dojo Paris et d'autres ateliers pour enfants ou ados.
+Ce site s'adresse aussi aux enseignants et éducateurs qui menent des ateliers. Il sert de support pour le Coder Dojo Paris et d'autres ateliers pour enfants ou ados. Le matériel a été fait pour être imprimé si besoin et certains articles sont dédiés à l'organisation des ateliers.
 
 ## Contenu
 
@@ -44,6 +44,7 @@ Tout le matériel -sauf mention contraire- est sous licence Creative Commons.
 ## Auteur
 
 Ce site est conçu et maintenu par [Claude Falguiere](https://cfalguiere.github.io/).
+
 Claude Falguière est consultante en informatique et anime des ateliers Coder Dojo Paris.
 
 
