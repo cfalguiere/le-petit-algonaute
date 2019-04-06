@@ -17,7 +17,7 @@ Toutenalgo est le personnage principal de ce site.
 
 Il veut accompagner les enfants et leur faire découvrir son monde, celui de l'informatique et de la robotique.
 
-Dans le monde de Toutenalgo et de ses amis algonautes, un programme peut dessiner, se déplacer, faire de la musique, raconter des histoires.
+Dans le monde de Toutenalgo et de ses amis algonautes un programme peut dessiner, se déplacer, faire de la musique, raconter des histoires.
 
 Ce site est destiné plus particulièrement aux enfants qui veulent découvrir ce que l'on peut faire avec des ordinateurs et réaliser des programmes. Mais si vous êtes un grand enfant vous y trouverez aussi votre bonheur.
 
