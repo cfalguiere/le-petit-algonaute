@@ -31,7 +31,7 @@ Le but de ce site est de partager :
 
 ## Plan du site
 
-[Plan du site](/plan/)
+[Plan du site]({{site.baseurl}}/plan/)
 
 ## Auteur
 
