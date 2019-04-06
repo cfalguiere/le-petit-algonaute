@@ -13,13 +13,15 @@ author: cfalguiere
 banner: /assets/images/logo-white-tr-image-1200-600.png
 ---
 
-Toutenalgo Le petit algonaute est le personnage principal de ce site. Il va accompagner les enfants et leur faire découvrir son monde, celui de l'informatique et de la robotique.
+Toutenalgo est le personnage principal de ce site.
 
-Dans son monnde, un programme peut dessiner, se déplacer, faire de la musique, raconter des histoire.
+Il vaut accompagner les enfants et leur faire découvrir son monde, celui de l'informatique et de la robotique.
 
-Toutenalgo Le petit algonaute est un blog destiné plus particulièrement aux enfants interessés par l'informatique et la programmation. Mais si vous êtes un grand enfant vous y trouverez aussi votre bonheur.
+Dans le monde de Toutenalgo et de ses amis algonautes, un programme peut dessiner, se déplacer, faire de la musique, raconter des histoire.
 
-Il s'adresse aussi plus particulièrement aux enseignants et éducateurs qui menent des ateliers. Ce site sert de support pour le Coder Dojo Paris et d'autres ateliers pour enfants ou ados. Tout le matériel -sauf mention contraire- est sous licence Creative Commons.
+Ce site est destiné plus particulièrement aux enfants qui veulent découvrir ce que l'on peut faire avec des ordinateurs et réaliser des programmes. Mais si vous êtes un grand enfant vous y trouverez aussi votre bonheur.
+
+Ce site s'adresse aussi aux enseignants et éducateurs qui menent des ateliers. Ce site sert de support pour le Coder Dojo Paris et d'autres ateliers pour enfants ou ados. Tout le matériel -sauf mention contraire- est sous licence Creative Commons.
 
 Le but de ce site est de partager :
 - Des informations sur les outils éducatifs liés à l'informatique, la robotique et l'électronique
@@ -27,9 +29,14 @@ Le but de ce site est de partager :
 - Des exemples de projets
 - Des conseils pour mener les ateliers
 
+## Plan du site
+
 [Plan du site](/plan/)
 
-Ce site est conçu et maintenu par [Claude Falguiere](https://cfalguiere.github.io/)
+## Auteur
+
+Ce site est conçu et maintenu par [Claude Falguiere](https://cfalguiere.github.io/).
+Claude Falguière est consultante en informatique et anime des ateliers Coder Dojo Paris.
 
 ## Licence
 
