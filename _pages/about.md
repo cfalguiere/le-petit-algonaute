@@ -50,4 +50,4 @@ Ce site est réalisé en utilisant Jekyll et le thème Minimal Mistakes.
 - [Jekyll](https://jekyllrb.com/)
 - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistake)
 
-
+Les sources de ce site sont [consultables ici](https://github.com/cfalguiere/le-petit-algonaute).
