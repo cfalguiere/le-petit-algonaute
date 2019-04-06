@@ -26,13 +26,15 @@
           alt="">
       </div>
     {% endif %}
-    <div class="author__avatar" style="float:left;width:30px;height:30px;">
-      {% if author.avatar %}
-           {% assign author_src = author.avatar | relative_url %}
-            <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
-      {% endif %}
+    <div style="float:left;width:30px;height:30px;">
+      <div class="author__avatar" >
+        {% if author.avatar %}
+             {% assign author_src = author.avatar | relative_url %}
+              <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
+        {% endif %}
+      </div>
     </div>
-    <div>
+    <div style="clear:both;">
       <h2 class="archive__item-title" itemprop="headline">
         {% if post.link %}
           <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
