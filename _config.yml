@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "shadow_orange" #"dark" # "default" # "air", "aqua", 
 
 # Site Settings
 locale                   : "fr-FR"
-title                    : "Le petit algonaute"
+title                    : "Toutenalgo, Le petit algonaute"
 title_separator          : "-"
 logo                     : "/assets/images/logo-white-tr-image-1200-600.png"
 banner_tall              : "/assets/images/logo-white-tr-image-1200-600.png"
