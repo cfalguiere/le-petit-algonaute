@@ -26,11 +26,12 @@
           alt="">
       </div>
     {% endif %}
-    <div class="author__avatar" style="float:left;">
+    <div class="author__avatar" style="float:left;width:30px;height:30px;">
       {% if author.avatar %}
            {% assign author_src = author.avatar | relative_url %}
             <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
       {% endif %}
+    </div>
     <div>
       <h2 class="archive__item-title" itemprop="headline">
         {% if post.link %}
@@ -46,7 +47,6 @@
         <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
       {% endif %}
       {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
-
     </div>
 
   </article>
