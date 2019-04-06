@@ -26,9 +26,9 @@
           alt="">
       </div>
     {% endif %}
-    <div>
+    <div style="float:left;width:40px;height:40px;">
       {% if author.avatar %}
-          {% assign author_src = author.avatar | relative_url %}        <a href="{{ author_link }}">
+          {% assign author_src = author.avatar | relative_url %}
           <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
       {% endif %}
     </div>
