@@ -31,6 +31,8 @@ Le but de ce site est de partager :
 - Des exemples de projets
 - Des conseils pour mener les ateliers
 
+Ce site n'est pas sponsorisé par les marques des produits présentés.
+
 ## Licence
 
 Tout le matériel -sauf mention contraire- est sous licence Creative Commons.
