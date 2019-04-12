@@ -21,6 +21,13 @@ mindstorms:
     Il peut être programmé via un logiciel graphique ou des langages de programmation.
   avatar      : "/assets/images/authors/mindstorms.png"
 
+thymio:
+  name        : "Thymio"
+  bio         : >
+    Thymio est un robot éducatif évolutif.
+    Il peut être programmé par image à partir de 4 ans, par blocs ou via un langage de programmation.
+  avatar      : "/assets/images/authors/thymio.png"
+
 Cornelius Fiddlebone:
   name        : "Cornelius Fiddlebone"
   email       : "cornelius@thewhip.com"
