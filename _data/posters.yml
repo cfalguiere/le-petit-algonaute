@@ -40,6 +40,12 @@
   image: mindstorms-04-pince.png
   description: Mindstorms - Pince
 
+- name: mindstorms-05
+  category: Mindstorms
+  thumbnail: mindstorms-05-pelle-w300.png
+  image: mindstorms-05-pelle.png
+  description: Mindstorms - Pelle
+
 - name: thymio-01
   category: Thymio
   thumbnail: thymio-01-demarrer-w300.png
