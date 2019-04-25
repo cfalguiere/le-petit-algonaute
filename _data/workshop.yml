@@ -1,0 +1,53 @@
+- name: Cozmo
+  type: Robotique
+  brand: Anki
+  price: 90
+  age: 7-10
+  image:
+  vpl: Sandbox & Constructor
+  dsl:
+  python:
+  web_site:
+  documentation:
+  french_available: oui
+  longevity: M
+  learning_potential: M
+  capacities: move, move cubes, talk, detect faces
+  motivations: cute
+  modular: non
+
+- name: Mindstorms EV3
+  type: Robotique
+  brand: Lego
+  price: 300
+  age: 9+
+  image:
+  vpl: Graphlab
+  dsl:
+  python: avec une carte ev3dev
+  web_site:
+  documentation:
+  french_available: true
+  longevity: H
+  learning_potential: H
+  capacities: move, motors, sound, lots of sensors (disrance, colors, touch, ...)
+  motivations: cars, machines, conveyors, robots
+  modular: oui
+
+- name: Thymio
+  type: Robotique
+  brand: Thymio
+  price: 200
+  age: 4-10
+  image:
+  vpl: VPL et Blockly
+  dsl: Aseba
+  python: true
+  web_site:
+  documentation:
+  french_available: true
+  longevity: S
+  learning_potential: H
+  capacities: move, play music, change color
+  motivations: évolutif
+  modular: non
