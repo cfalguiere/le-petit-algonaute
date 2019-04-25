@@ -7,51 +7,18 @@ page_assets: /assets/images/landpage/
 ---
 
 <!-- FIXME -->
-
-<a href="{{site.baseurl}}{{site.data.navigation.main[0].url}}" style="color:#eaeaea;">
-  <!--
-  <div style="background-color: #1c488c;height:299px;width:595px;margin: 0 10px 10px 0;padding:10px;float:left;">
-    <span style="font-size:1.5em;font-family: 'Dancing Script', cursive;font-weight: bold;">Actualités</span>
-  </div>
-  -->
-  <div style="margin: 0 10px 10px 0;float:left;">
-    <img style="max-height:299px;max-width:595px;height:100%x;width:100%;object-fit: contain;"
-         src="{{site.baseurl}}{{page.page_assets}}landpage-actualites-w595.png"/>
-  </div>
-</a>
-
-<a href="{{site.baseurl}}{{site.data.navigation.main[1].url}}" style="color:#eaeaea;">
-  <!--
-  <div style="background-color: #393978;height:150px;width:595px;margin: 0 10px 10px 0;padding:10px;float:left;">
-    <span style="font-size:1.5em;font-family: 'Dancing Script', cursive;font-weight: bold;">Fiches à imprimer</span>
-  </div>
-  -->
-  <div style="margin: 0 10px 10px 0;float:left;">
-    <img style="max-height:299px;max-width:595px;height:100%x;width:100%;object-fit: contain;"
-         src="{{site.baseurl}}{{page.page_assets}}landpage-posters-w595.png"/>
-  </div>
-</a>
-
-<a href="{{site.baseurl}}{{site.data.navigation.main[1].url}}" style="color:#eaeaea;">
-  <!--
-  <span style="font-size:1.5em;font-family: 'Dancing Script', cursive;font-weight: bold;">Activités par âge</span>
-  -->
-  <div style="margin: 0 10px 10px 0;float:left;">
-    <img style="max-height:299px;max-width:595px;height:100%x;width:100%;object-fit: contain;"
-         src="{{site.baseurl}}{{page.page_assets}}landpage-activities-w595.png"/>
-  </div>
-</a>
-
-<a href="{{site.baseurl}}{{site.data.navigation.main[2].url}}" style="color:#eaeaea;">
-  <!--
-  <div style="background-color: #393639;height:150px;width:595px;margin: 0 10px 10px 0;padding:10px;float:left;">
-    <span style="font-size:1.5em;font-family: 'Dancing Script', cursive;font-weight: bold;">Qui suis je ?</span>
-  </div>
-  -->
-  <div style="margin: 0 10px 10px 0;float:left;">
-    <img style="max-height:299px;max-width:595px;height:100%x;width:100%;object-fit: contain;"
-         src="{{site.baseurl}}{{page.page_assets}}landpage-about-w595.png"/>
-  </div>
-</a>
+{% for item in {{site.data.navigation.landpage}} %}
+  <a href="{{site.baseurl}}{{item.url}}" style="color:#eaeaea;">
+    <!--
+    <div style="background-color: #1c488c;height:299px;width:595px;margin: 0 10px 10px 0;padding:10px;float:left;">
+      <span style="font-size:1.5em;font-family: 'Dancing Script', cursive;font-weight: bold;">Actualités</span>
+    </div>
+    -->
+    <div style="margin: 0 10px 10px 0;float:left;">
+      <img style="max-height:299px;max-width:595px;height:100%x;width:100%;object-fit: contain;"
+           src="{{site.baseurl}}{{page.page_assets}}{{item.image}}"/>
+    </div>
+  </a>
+{% endfor %}
 
 

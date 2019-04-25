@@ -13,6 +13,21 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
+landpage:
+  - title: "Blog"
+    url: /blog/
+    image: landpage-actualites-w595.png
+  - title: "Posters"
+    url: /posters/
+    image: landpage-posters-w595.png
+  - title: "Activities"
+    url: /blog/
+    image: landpage-activities-w595.png
+  - title: "Qui suis je ?"
+    url: /about/
+    image: landpage-about-w595.png
+
+
 sb-cozmo:
   - title   : En savoir plus
     children:
