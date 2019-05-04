@@ -3,7 +3,7 @@ permalink: /posters/
 title: "Posters"
 layout: splash
 classes: wide
-assets_folder: assets/posters/
+assets_folder: /assets/posters/
 ---
 
 <div>
