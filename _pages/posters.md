@@ -13,11 +13,13 @@ assets_folder: /assets/posters/
 
 {% for category in site.data.poster-categories %}
   <div style="float:left;margin: 5px">
-    <a href="#{{ category.name }}"><img width=100 height=100 src="{{site.baseurl}}/assets/images/authors/{{ category.image }}" alt="cat. image"></a>
+    <a href="#{{ category.name }}"><img width="100" height="100" src="{{site.baseurl}}/assets/images/authors/{{ category.image }}" alt="cat. image"></a>
     <br>
     <a href="#{{ category.name }}">{{ category.name }}</a>
   </div>
 {% endfor %}
+
+<br>
 
 {% for poster in site.data.posters %}
 
