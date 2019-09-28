@@ -33,7 +33,7 @@ assets_folder: /assets/posters/
     <span style="font-size:0.7em;font-weight: bold;"><i class="fas fa-fw fa-tags" aria-hidden="true"></i>&nbsp;{{ category.name }}</span>
   </div>
 
-  <div style="float:left;padding-right: 5px;padding-bottom: 5px;">
+  <div style="float:left;padding-right: 5px;padding-bottom: 25px;">
     {% for poster in site.data.posters %}
       {% if poster.category == category.name %}
           <a href="{{site.baseurl}}{{page.assets_folder}}{{poster.image}}" target="_blank" class=".btn .btn--success .btn--large">
