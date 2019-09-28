@@ -28,7 +28,6 @@ assets_folder: /assets/posters/
 </div>
 
 {% for category in site.data.poster-categories %}
-  <p>
   <a name="{{ category.name }}"></a>
   <span style="font-size:0.7em;font-weight: bold;"><i class="fas fa-fw fa-tags" aria-hidden="true"></i>&nbsp;{{ category.name }}</span><br>
 
@@ -45,5 +44,6 @@ assets_folder: /assets/posters/
 
     {% endif %}
   {% endfor %}
-  </p>
+  <div style="clear:left">
+  </div>
 {% endfor %}
