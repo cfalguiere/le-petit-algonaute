@@ -15,11 +15,12 @@ assets_folder: /assets/posters/
   <div style="float:left;margin: 5px">
     <a href="#{{ category.name }}"><img width="100" height="100" src="{{site.baseurl}}/assets/images/authors/{{ category.image }}" alt="cat. image"></a>
     <br>
-    <a href="#{{ category.name }}">{{ category.name }}</a>
+    <span style="font-size:0.7em;font-weight: bold;"><i class="fas fa-fw fa-tags" aria-hidden="true"></i>&nbsp;<a href="#{{ category.name }}">{{ category.name }}</a></span>
   </div>
 {% endfor %}
 
-<br>
+<div style="clear:left">
+</div>
 
 {% for poster in site.data.posters %}
 
