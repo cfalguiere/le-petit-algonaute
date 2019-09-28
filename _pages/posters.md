@@ -11,7 +11,7 @@ assets_folder: /assets/posters/
 
 </div>
 
-<p>
+<div style="margin-top: -5px">
   <span style="font-size:0.7em;font-weight: bold;"><i class="fas fa-fw fa-tags" aria-hidden="true"></i>&nbsp;Les catégories</span>
   {% for category in site.data.poster-categories %}
     <div style="float:left;margin-right: 5px">
@@ -22,10 +22,11 @@ assets_folder: /assets/posters/
       </div>
     </div>
   {% endfor %}
+</div>
 
-  <div style="clear:left">
-  </div>
-</p>
+<div style="clear:left">
+</div>
+
 
 {% for poster in site.data.posters %}
 
