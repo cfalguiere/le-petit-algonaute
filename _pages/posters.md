@@ -37,7 +37,7 @@ assets_folder: /assets/posters/
     {% for poster in site.data.posters %}
       {% if poster.category == category.name %}
           <a href="{{site.baseurl}}{{page.assets_folder}}{{poster.image}}" target="_blank" class=".btn .btn--success .btn--large">
-            <img style="padding-bottom: 5px;"> src="{{site.baseurl}}{{page.assets_folder}}{{poster.thumbnail}}" alt="{{poster.description}}">
+            <img style="padding-bottom: 5px;" src="{{site.baseurl}}{{page.assets_folder}}{{poster.thumbnail}}" alt="{{poster.description}}">
           </a>
           <!-- w300 A4 -->
       {% endif %}
