@@ -31,8 +31,9 @@ assets_folder: /assets/posters/
   <div style="float:left;margin-top: 5px">
     <a name="{{ category.name }}"></a>
     <span style="font-size:0.7em;font-weight: bold;"><i class="fas fa-fw fa-tags" aria-hidden="true"></i>&nbsp;{{ category.name }}</span>
+    <br>
   </div>
-  
+
   <div style="float:left;margin-right: 5px;margin-bottom: 5px">
     {% for poster in site.data.posters %}
       {% if poster.category == category.name %}
