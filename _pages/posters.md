@@ -24,7 +24,7 @@ assets_folder: /assets/posters/
   {% endfor %}
 </div>
 
-<div style="clear:left">
+<div style="clear:left;margin-bottom: 20px;">
 </div>
 
 {% for category in site.data.poster-categories %}
@@ -33,13 +33,15 @@ assets_folder: /assets/posters/
     <span style="font-size:0.7em;font-weight: bold;"><i class="fas fa-fw fa-tags" aria-hidden="true"></i>&nbsp;{{ category.name }}</span>
   </div>
 
-  <div style="float:left;margin-right: 5px;margin-bottom: 25px;">
+  <div style="float:left;margin-bottom: 20px;">
     {% for poster in site.data.posters %}
       {% if poster.category == category.name %}
+        <div style="margin-right: 5px;margin-bottom: 5px;">
           <a href="{{site.baseurl}}{{page.assets_folder}}{{poster.image}}" target="_blank" class=".btn .btn--success .btn--large">
             <img src="{{site.baseurl}}{{page.assets_folder}}{{poster.thumbnail}}" alt="{{poster.description}}">
           </a>
           <!-- w300 A4 -->
+        </div>
       {% endif %}
     {% endfor %}
   </div>
