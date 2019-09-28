@@ -28,8 +28,9 @@ assets_folder: /assets/posters/
 </div>
 
 {% for category in site.data.poster-categories %}
-  <a name="{{ poster.category }}"></a>
-  <span style="font-size:0.7em;font-weight: bold;"><i class="fas fa-fw fa-tags" aria-hidden="true"></i>&nbsp;{{ poster.category }}</span><br>
+  <p>
+  <a name="{{ category.name }}"></a>
+  <span style="font-size:0.7em;font-weight: bold;"><i class="fas fa-fw fa-tags" aria-hidden="true"></i>&nbsp;{{ category.name }}</span><br>
 
   {% for poster in site.data.posters %}
     {% if poster.category == category.name %}
@@ -44,5 +45,5 @@ assets_folder: /assets/posters/
 
     {% endif %}
   {% endfor %}
-  <br>
+  </p>
 {% endfor %}
