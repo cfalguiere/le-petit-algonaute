@@ -1,0 +1,8 @@
+- name: Cozmo
+  image: cozmo.png
+
+- name: Mindstorms
+  image: mindstorms.png
+
+- name: Thymio
+  image: thymio.png
