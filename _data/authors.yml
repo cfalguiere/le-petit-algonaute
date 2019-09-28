@@ -28,6 +28,14 @@ thymio:
     Il peut être programmé par image à partir de 4 ans, par blocs ou via un langage de programmation.
   avatar      : "/assets/images/authors/thymio.png"
 
+vector:
+  name        : "Vector"
+  bio         : >
+    Vector est le grand frère de Cozmo.
+    Il peut être programmé en Python.
+  avatar      : "/assets/images/authors/vector.png"
+
+
 Cornelius Fiddlebone:
   name        : "Cornelius Fiddlebone"
   email       : "cornelius@thewhip.com"

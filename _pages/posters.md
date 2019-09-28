@@ -11,8 +11,14 @@ assets_folder: /assets/posters/
 
 </div>
 
+{% for category in site.data.poster-categories %}
+  <a href="#{{ category.name }}"><img src="{{site.baseurl}}/assets/images/authors/{{ category.image }}" alt="cat. image"></a>
+  <a href="#{{ category.name }}">{{ category.name }}</a>
+{% endfor %}
+
 {% for poster in site.data.posters %}
 
+  <a name="{{ poster.category }}"></a>
   <div style="float:left;margin: 5px">
     <div>
       <span style="font-size:0.7em;font-weight: bold;"><i class="fas fa-fw fa-tags" aria-hidden="true"></i>&nbsp;{{ poster.category }}</span><br>
