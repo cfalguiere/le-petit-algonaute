@@ -16,8 +16,8 @@ assets_folder: /assets/posters/
   <div style="float:left;margin-right: 5px">
     <a href="#{{ category.name }}"><img width="100" height="100" src="{{site.baseurl}}/assets/images/authors/{{ category.image }}" alt="cat. image"></a>
     <br>
-    <div style="width: 100">
-      <span style="font-size:0.6em;font-weight: bold;text-align: center"><a href="#{{ category.name }}">{{ category.name }}</a></span>
+    <div style="width: 100;text-align: center">
+      <span style="font-size:0.6em;font-weight: bold"><a href="#{{ category.name }}">{{ category.name }}</a></span>
     </div>
   </div>
 {% endfor %}
