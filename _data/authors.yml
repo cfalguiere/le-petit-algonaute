@@ -35,6 +35,13 @@ vector:
     Il peut être programmé en Python.
   avatar      : "/assets/images/authors/vector.png"
 
+arduino:
+  name        : "Arduino"
+  bio         : >
+    Arduino est micro-contrôleur.
+    Il peut être programmé en C, en Python et en Scratch.
+  avatar      : "/assets/images/authors/arduino.png"
+
 
 Cornelius Fiddlebone:
   name        : "Cornelius Fiddlebone"
