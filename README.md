@@ -1,3 +1,3 @@
 Découvrir l'informatique en s'amusant, en construisant des robots, en créant des jeux et des animations.
 
-Le site est là http://www.toutenalgo.fr/
+Le site est là http://www.toutenalgo.fr/  ou https://cfalguiere.github.io/le-petit-algonaute/
