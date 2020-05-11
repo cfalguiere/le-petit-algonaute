@@ -8,15 +8,17 @@ page_assets: /assets/images/landpage/
 
 <!-- FIXME -->
 {% for item in site.data.navigation.landpage %}
-  <a href="{{site.baseurl}}{{item.url}}" style="color:#eaeaea;">
-    <!--
-    <div style="background-color: #1c488c;height:299px;width:595px;margin: 0 10px 10px 0;padding:10px;float:left;">
-      <span style="font-size:1.5em;font-family: 'Dancing Script', cursive;font-weight: bold;">Actualités</span>
-    </div>
-    -->
-    <div style="margin: 0 10px 10px 0;float:left;">
-      <img style="width:100%;object-fit: contain;margin: 0"
-           src="{{site.baseurl}}{{page.page_assets}}{{item.image}}"/>
-    </div>
-  </a>
+  <span style="font-size=0">
+    <a href="{{site.baseurl}}{{item.url}}" style="color:#eaeaea;">
+      <!--
+      <div style="background-color: #1c488c;height:299px;width:595px;margin: 0 10px 10px 0;padding:10px;float:left;">
+        <span style="font-size:1.5em;font-family: 'Dancing Script', cursive;font-weight: bold;">Actualités</span>
+      </div>
+      -->
+      <div style="margin: 0 10px 10px 0;float:left;">
+        <img style="width:100%;object-fit: contain;margin: 0"
+             src="{{site.baseurl}}{{page.page_assets}}{{item.image}}"/>
+      </div>
+    </a>
+  </span>
 {% endfor %}
