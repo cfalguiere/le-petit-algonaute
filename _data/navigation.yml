@@ -16,16 +16,16 @@ main:
 landpage:
   - title: "Blog"
     url: /blog/
-    image: landpage-blog-w525.png
+    image: landpage-1-blog.png
   - title: "Posters"
     url: /posters/
-    image: landpage-posters-w525.png
+    image: landpage-2-posters.png
   - title: "Activities"
     url: /blog/
-    image: landpage-activities-w525.png
+    image: landpage-3-progression.png
   - title: "Qui suis je ?"
     url: /about/
-    image: landpage-about-w525.png
+    image: landpage-4-about.png
 
 
 sb-cozmo:
